@@ -1,4 +1,4 @@
-#John Steinback: O myších a lidech
+# John Steinback: O myších a lidech
 - __Druh:__ epika
 - __Žánr:__ novela (pointa: vražda Lennieho z milosti)
 - __Téma:__ život lidí putujících za prací, přátelství, potřeba sebe navzájem, životní sen

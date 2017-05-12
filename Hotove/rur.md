@@ -1,4 +1,4 @@
-#Karel Čapek: R.U.R
+# Karel Čapek: R.U.R
 
 - __Druh:__ drama
 - __Žánr:__ sci-fi antiutopická činohra/tragédie (je tam naděje, takže je to málo tragédie)

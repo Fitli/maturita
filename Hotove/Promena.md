@@ -1,4 +1,4 @@
-#Franz Kafka: Proměna
+# Franz Kafka: Proměna
 
 - __Druh:__ epika
 - __Žánr:__ novela (pointa: smrt, kde nikdo netruchlí)
