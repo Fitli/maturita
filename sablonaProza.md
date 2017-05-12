@@ -1,7 +1,7 @@
 # Autor: Název
 - __Druh:__ 
 - __Žánr:__
-- __Téma: 
+- __Téma:__ 
 - __Motivy:__ 
 - __Časoprostor:__
 	- místo
