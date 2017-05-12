@@ -8,7 +8,7 @@
 - často i anarchistické činy
 - sblížení s dělnickým hnutím
 - hnutí s Omladinou
-	- ++S. K. Neumann++
+	- <u>S. K. Neumann</u>
 - antimilitarsimus
 	- proti řešení konfliktů na státní úrovni pomocí zbraní
 - civilismus
@@ -21,10 +21,10 @@
 	- lidové prostředky
 	- prostá pojmenování
 	- pravidelný verš
-- __++S. K. Neumann++__
+- __<u>S. K. Neumann</u>__
 	- časopis Nový kult
 	- shlukoval kolem sebe další anarchisty
-- __++Viktor Dyk ++__
+- __<u>Viktor Dyk </u>__
 	- básník, prozaik, dramatik
 	- poezie -- ironie
 		- _Satiry a sarkasmy_ -- satiry na český společenský život
@@ -38,7 +38,7 @@
 		- Krysař
 	- drama
 		- Zmoudření Dona Quijota
-- __++Fráňa Šrámek++__
+- __<u>Fráňa Šrámek</u>__
 	- _Stříbrný vítr_ 
 		- lyrizovaná próza -- impresionistický román
 		- hlavní postava Jan Ratkin, divně namíchaný geny
@@ -52,12 +52,12 @@
 		- _Měsíc nad řekou_
 			- dospělost bývalých spolužáků
 		- _Léto_
-- __++Karel Toman++__
+- __<u>Karel Toman</u>__
 	- bohémský život
 	- redaktor Národních listů
 	- hodně cestoval
 	- sbírka _Měsíce_
-- __++Stanislav Kostka Neumann++__
+- __<u>Stanislav Kostka Neumann</u>__
 	- za začátky dekadence, symbolismus, satanismus, začíná se kamarádit s anarchisty
 		- _Satanova sláva mezi námi_
 			- symbol vzdoru, oslava živočišna
@@ -74,14 +74,14 @@
 	- za okupace psal do šuplíku
 		- _Zamořená léta_
 		- _Bezedný rok_
-- __++Petr Bezruč++__
+- __<u>Petr Bezruč</u>__
 	- pseudonym
 	- filolog
 	- zkoumal Rukopisy
 	- Jaroška
 	- _Slezské písně_
 		- anonymně v časopise Čas
-		- knižně pak vydaj ++Jan Herben++ -- redaktor toho časopisu jako _Slezské číslo_
+		- knižně pak vydaj <u>Jan Herben</u> -- redaktor toho časopisu jako _Slezské číslo_
 		- později vycházely s úpravami k horšímu
 		- nazývá se bardem utlačovaného slezského národa
 		- lidové mýty, křesťanské prvky
@@ -96,7 +96,7 @@
 			- prý není výhradním autorem
 			- teorie, že hlavním autorem Ondřej Petr
 
-- __++Jakub Deml++__ 
+- __<u>Jakub Deml</u>__ 
 	- ne anarchista
 	- spirituální a katolický proud
 	- kritický k círvi

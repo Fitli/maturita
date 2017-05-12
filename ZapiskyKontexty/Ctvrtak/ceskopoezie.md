@@ -1,39 +1,39 @@
 #poezie
 - úvod
 - proletářská poezie, sociální balada
-	- ++__Wolker__++
+	- <u>__Wolker__</u>
 		- _Host do domu_
 		- _Těžká hodina_
 		- _Svatý kopeček_
-	- ++__Josef Hora__++
+	- <u>__Josef Hora__</u>
 		- _Pracující den_
 		- _Srdce a vřava světa_
 		- _Jan houslista_
-	- ++__Seifert__++
+	- <u>__Seifert__</u>
 		- _Město v slzách_
 		- _Samá láska_
 - poetismus
-	- ++__Teige__++
-	- ++__Nezval__++
+	- <u>__Teige__</u>
+	- <u>__Nezval__</u>
 		- _Podivuhodný kouzelník_
 		- _Pantomima_
 		- _Básně noci_
-	- ++__Seifert__++
+	- <u>__Seifert__</u>
 		- _Na vnách TSF_
 - surrealismus
-	- ++__Nezval__++
+	- <u>__Nezval__</u>
 		- _Praha s prsty deště_
 		- _Žena v množném čísle_
 		- _Absolutní hrobař_
-- ++__Nezval__++
+- <u>__Nezval__</u>
 	- _Matka naděje_
 	- _Pět minut za městem_
 	- _Manon Lescaut_ (drama)
 - komunismus
-	- ++__Nezval__++
+	- <u>__Nezval__</u>
 		- _Stalin_
 		- _Zpěv míru_
-- ++__Seifert__++
+- <u>__Seifert__</u>
 	- 30\. léta
 		- _8 dní_
 		- _Zhasněte světla_
@@ -47,14 +47,14 @@
 	- 70\. -- 80. léta
 		- _Všechny krásy světa_ -- upravena pro vydání v československu
 - Spirituální a katolický proud
-	- ++__Jakub Deml__++
+	- <u>__Jakub Deml__</u>
 		- _Hrad smrti_
 		- _Tanec smrti_
 		- _Miriam_ -- různé podoby ženy
-	- ++__Jan Zahradníček__++
+	- <u>__Jan Zahradníček__</u>
 		- _Korouhve_ -- okupace, obavy o osud země, výzva světcům, aby nás chránili
 		- 13 let v komunistickém vězení
-- ++__František Halas__++
+- <u>__František Halas__</u>
 	- úvahový, expresivní, smysl existence
 	- kontrast, metafory, kakofonie
 	- poetismus
@@ -65,5 +65,5 @@
 	- okupace
 		- _Torzo naděje_ -- povzbuzení národa
 		- _Naše paní Božena Němcová_
-- ++__Vladimír Holan__++
+- <u>__Vladimír Holan__</u>
 	- _Terezka Planetová_ -- poéma -- epičnost

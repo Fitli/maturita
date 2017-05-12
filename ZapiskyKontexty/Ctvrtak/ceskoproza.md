@@ -16,17 +16,17 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 30. léta: rozsáhlé celky, tzv. noetická tematika (o poznatelnosti člověka); próza se poprvé stává  vůdčím literárním žánrem, charakteristický rys je tzv. spor o román – román je přežitý útvar, proto „syntetický román“, „román řeka“ , vrcholí tvorba psychologická (Glazarová), je patrný existencialismus (Weiner, Nezval)…
 
 ##Ohlas války
-- __++Fráňa Šrámek++__  (1877 – 1952)
+- __<u>Fráňa Šrámek</u>__  (1877 – 1952)
 	- ještě neumřel, psal i o válce
 	- _Žasnoucí voják_ – sb. povídek,  zachycuje zážitky člověka vyhnaného do války…
 	- _Tělo_ – román je pokládán za prozaickou verzi českého vitalismu (oslava života, lásky). Hl. hrdinka Máňa, dcera holiče, se provdá za mladého úspěšného inženýra. Ve válce musí její muž narukovat, ona přemýšlí o nevěře, ale znechucena prožitky své přítelkyně, nevěru odmítá, protestuje proti válce, která jí vzala muže, psychickou i fyzickou oporu. Román zdůrazňuje záporný postoj ženy k válce. Podstatou románu je oslava těla, přírodní podstaty člověka. 
 	- _Hagenbeg_ – drama, odsuzuje rak. důstojníky, kteří hnali vojáky jako „zvěř na porážku“…
 
-- __++Jan Weiss++__ – zakladatel české sci-fi…
+- __<u>Jan Weiss</u>__ – zakladatel české sci-fi…
 	- _Barák smrti_ – sb. povídek, které se odehrávají v lágru. V blouznění vojáků postižených tyfem je podán obraz války, pár se jich obrní v domě, aby unikli epidemii, ale nakonec zjišťují, že je nakažen jeden z nich…
 	- _Dům o 1000 patrech_ – sci-fi alegorický román je obrazem světa, kde se začíná projevovat fašismus ztělesněný netvorem, který dům ovládá, hl. hrdina se v domě probudí a zjišťuje, že zde má vyšetřit zločin, netradiční  grafická úprava textu…
 
-- __++Jaroslav Hašek++__ – představuje specifickou českou reakci na 1. svět. válku, patří k světově nejznámějším představitelům české prózy…
+- __<u>Jaroslav Hašek</u>__ – představuje specifickou českou reakci na 1. svět. válku, patří k světově nejznámějším představitelům české prózy…
 	- život
 		- Pocházel z pražské měšťanské rodiny
 		- vystřídal řadu zaměstnání (majitel psince, redaktor různých časopisů, r. 1911 kandidoval do říšských voleb za Stranu mírného pokroku v mezích zákona)
@@ -53,7 +53,7 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 			- často sahá k argotu, používá germanismy.
 		- TÉMA
 			- sleduje osudy Švejka od dialogu se služebnou, přes odvodovou komisi, pobyt v blázinci, nemocnici, armádě a hlavně cesta do Budějovic.
-- __++Rudolf Medek++__
+- __<u>Rudolf Medek</u>__
 	- vysoký důstojník čs. armády…
     - _Anabáze_ – pentalogie
     	- sleduje cestu legií do Ruska do boje proti revolucím
@@ -61,10 +61,10 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
     	- ukazuje osud legionářského velitele
     	- je namířen proti sovětským bolševikům
     	- konflikt velení legií a prostých vojáků…
-- __++Josef Kopta++__
+- __<u>Josef Kopta</u>__
 	- _Trilogie 3. rota_
 		- postavení českých legií a rozpory v nich
-- __++František Langer++__
+- __<u>František Langer</u>__
 	- přítel Karla Čapka
 	- profesí lékař
 	- na frontě upadl do zajetí, po válce se věnuje literatuře a dramatu
@@ -75,9 +75,9 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 		- Langer straní legionářům
 		- bolševiky zobrazuje naturalisticky
 		- nakonec je celá hlídka rozprášena…
-- __++Václav Kaplický++__ 
+- __<u>Václav Kaplický</u>__ 
 	- _Gornostaj_ – román - reportáž o situaci v legiích…
-- __++Jaroslav Kratochvíl++__
+- __<u>Jaroslav Kratochvíl</u>__
 	- obraz legií podle programu komunistů, vystihuje právo na straně protilegionářské války…
 
 ##Socialistický realismus
@@ -86,7 +86,7 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 	- revolučnost obsahovou
 	- revoluční perspektivu pro proletariát
 	- obsahem zobrazení člověka, ne ekonomického systému
-- __++Marie Majerová++__
+- __<u>Marie Majerová</u>__
 	- meziválečná socialistická tvorba…
 	- dělnické Kladno
 	- _Siréna_
@@ -99,12 +99,12 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 	- _Robinsonka_
 		- gymnazistka Bláža, které umře maminka
 		- bez politické situace
-- __++Marie Pujmanová++__
+- __<u>Marie Pujmanová</u>__
 	- měšťanská rodina
 	- psala o osudech žen
 	- _Lidé na křižovatce_
 		- společenské rozvrstvení ve společnosti
-- __++Ivan Olbracht++__
+- __<u>Ivan Olbracht</u>__
 	- spíš psychologický
 	- _O zlých samotářích_
 		- o lidech z okraje společnosti
@@ -129,7 +129,7 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 	- _Čtení z Bible kralické_ -- pro dospělé
 
 ##Lyrická próza
-- __++Vladislav Vančura++__
+- __<u>Vladislav Vančura</u>__
 	- člen Devětsilu
 	- byl i filmař
 	- časově málo určená díla
@@ -152,47 +152,47 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 	- divadelní hry
 
 ##Psychologická próza
-- __++Egon Hostovský++__
+- __<u>Egon Hostovský</u>__
 	- žil dvakrát v exilu
 	- cena Egona Hostovského pro české autory žijící mimo ČR
 	- _Žhář na maloměstě_
-- __++Václav Řezáč++__
+- __<u>Václav Řezáč</u>__
 	- _Větrná setba_ – obraz dospívání jedné generace za první světové války…
 	- _Černé světlo_
 	- _Svědek_ - napsáno za okupace, pan Kviz, který vědomě páchá zlo, jediné potěšení má z podněcování negativních činů v lidech.
 	- _Nástup_ - o osídlování pohraničí
 	- _Bitva_ - budovatelský román
-- __++Jarmila Glazarová++__
+- __<u>Jarmila Glazarová</u>__
 	- postavení žen
 	- _Advent_
 	- _Vlčí jáma_
-- __++Jaroslav Havlíček++__
+- __<u>Jaroslav Havlíček</u>__
 	- _Neopatrné panny_ – sb. povídek
 	- _Petrolejové lampy_ – románový cyklus maloměstského rodu, o jehož zachování bojuje poslední dcera provdaná za degenerovaného důstojníka…
 	- _Neviditelný_ – Román líčí nepříliš radostný život Petra Švajcara, který se vlastní pílí a cílevědomostí vypracuje z dítěte chudých rodičů až na pana továrníka. Stane se tedy úspěšným mužem. Ale to je pouze jedna strana mince…
 	- _Helimadoe_ – román o venkovském lékaři a jeho dcerách
-- __++Jarmila Glazarová++__ (1901 – 1977) – psychologická próza konce 30. a počátku 40. let…
+- __<u>Jarmila Glazarová</u>__ (1901 – 1977) – psychologická próza konce 30. a počátku 40. let…
 	- _Roky v kruhu_ – román, zachycuje život na Slezsku, když tam žila se svým manželem (lékařem)…
 	- _Vlčí jáma_ – vrchol její tvorby, realistická studie maloměšťáckého prostředí
 	- _Advent_ – mladá žena s dítětem si vezme sedláka, on je jí nevěrný a využívá jejího syna, ten uteče a ona nechtě zapálí stodolu se svým mužem a děvečkou…
 
 ##Ruralistická, katolická a venkovská próza
-- __++Josef Knapp++__ (1890 – 1973) – vůdčí osobnost tohoto hnutí…
+- __<u>Josef Knapp</u>__ (1890 – 1973) – vůdčí osobnost tohoto hnutí…
 	- redigoval časopis Sever a východ
 	- propagátor severské literatury
 	- psal literárně hist. studie (Fráňa Šrámek)
 	- romány a povídky zdůrazňující vzájemný vztah člověka a rodného kraje 
 	- _Réva na zdi_ – 1. selský román, téma osobní oběti…
 	- _Vysoké jarní nebe_ – jediný román z městského prostředí, drama mileneckého a poté manželského páru, část knihy psána formou nedopsaných dopisů hl. hrdinky manželovi po rozchodu…
-- __++František Křelina++__ (1903 – 1976) – ruralismus se u něj spojil s katolicismem, člen redakce měsíčníku Sever a východ, po r. 1949 pronásledován
+- __<u>František Křelina</u>__ (1903 – 1976) – ruralismus se u něj spojil s katolicismem, člen redakce měsíčníku Sever a východ, po r. 1949 pronásledován
 	- _Puklý chrám_ – román ze současnosti, vyznamenán státní cenou r. 1936….
 	- _Bábel_ – chmurně laděný román o vzrůstajícím nacionalismu mezi českým a německým obyvatelstvem na severu Čech v době před Mnichovem, z roku 1939 – vyšel až roku. 1968…
 	- _Každý své břímě_ – baladický román o vyhlazení Lidic
-- __++Jan Čep++__ (1902 – 1974) – ruralismus a katolicky orientovaný próza, redaktor v Melantrichu, 1948 emigroval –> redaktor zahranič. rozhlasu pro Československo…
+- __<u>Jan Čep</u>__ (1902 – 1974) – ruralismus a katolicky orientovaný próza, redaktor v Melantrichu, 1948 emigroval –> redaktor zahranič. rozhlasu pro Československo…
 	- _Letnice_ – povídky líčí život vesničanů za I. sv. války 
 	- _Děravý plášť_ – povídky založené na protikladu městského a venkovského života…
 	- _Hranice stínu_ – román, líčí život venkovského intelektuála, který se vrací do rodiště svých rodičů a hledá východisko ze zklamání života v rodových tradicích…
-- __++Jaroslav Durych++__ (1886 – 1962) – katolík, lyrik, povídkář a romanopisec, publicista, vojenský lékař
+- __<u>Jaroslav Durych</u>__ (1886 – 1962) – katolík, lyrik, povídkář a romanopisec, publicista, vojenský lékař
 	- _Sedmikráska_ – symbolická povídka, zvl. pojetí chudoby – nápravu vi´dí v Bohu…
 	- _Služebníci neužiteční_ – román o jezuitech v Čechách, nedokončený…
 	- _Bloudění_ – větší valdštejnská trilogie
@@ -226,7 +226,7 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 	- Pan Řeka se dostává do války, před válkou byl vrah, válka mu vyhovovala, byl jednoduchý, pohřben se všemi poctami
 
 ##Humanistická próza 
-- __++Karel Čapek++__
+- __<u>Karel Čapek</u>__
 	- hodně všestranný
 	- dramaturg divadla na Vinohradech
 	- dramatik
@@ -267,13 +267,13 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 	- pohádky
 		- _Devatero pohádek_
 		- _Dášenka, čili život štěněte_
-- __++Eduard Bass++__
+- __<u>Eduard Bass</u>__
 	- - patří do *demokratického proudu*
 		- *Klapzubova jedenáctka* -- fotbalový román
 	- *Cirkus Humberto* -- životní osudy cirkusáka -- hl. postavy od dětství do stáří (Vašek)
 		- skončí v Praze, ale založí si aspoň Varieté 
 
-- __++Josef Čapek++__
+- __<u>Josef Čapek</u>__
 	- patří do *demokratického proudu*
  	- *Život hmyzu* -- s bratrem
  	- *Stín kapradiny* -- lyrizovaná próza
@@ -286,11 +286,11 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 		- Osvobozené divadlo
 	- surrealismus
 - __Osvobozené divadlo__
-	- založili __++Jindřich Honzl++__, __++Jiří Frejka++__
-	- __++Jiří Voskovec++__
-	- __++Jan Werich++__
+	- založili __<u>Jindřich Honzl<u>__, __</u>Jiří Frejka</u>__
+	- __<u>Jiří Voskovec</u>__
+	- __<u>Jan Werich</u>__
 	- hry začínají vytvářet přímo v divadle
-	- __++Jaroslav Ježek++__ -- hudba
+	- __<u>Jaroslav Ježek</u>__ -- hudba
 	- 1\. hra: _Vest pocket revue_ -- nízkonákladové poetistické představení, lyrický humor, nápady
 	- divadlo se stává čistě autorským divadlem
 	- stává se z něj divodlo pro intelektuály -- hry nabývají na aktuálnosti -- _Caesar_ -- naráží na Mussoliniho
@@ -300,6 +300,6 @@ ve druhé polovině 20. let se projevuje vliv expresionismu – Kafka…
 	- Werich tu zůstal, hrál -- _Sůl nad Zlato_, _Císařův pekař, pekařův císař_, psal -- _Fimfárum_
 - __D34__
 	- režisérské divadlo
-	- ++__Emil František Burian__++ -- všechno uměl, tak tam všechno dělal
+	- <u>__Emil František Burian__</u> -- všechno uměl, tak tam všechno dělal
 	- hrály se tam divadelní hry různých autorů -- _Matka_, _Bílá nemoc_, _R.U.R_, _Velbloud uchem jehly_
 	- dramatizovali jiná literární díla -- _Máj_, _Evžen Oněgin_, _Krysař_

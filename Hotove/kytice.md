@@ -57,7 +57,7 @@
 	- široké nadšení pro národní věc
 	- názorová pluralita, vznik nových institucí
 	- vpád romantismu
-	- ++Josef Kajetán Tyl++ (_Fidlovačka, aneb žádný hněv a žádná rvačka_, _Paličova dcera_, _Strakonický dudák_...)
-	- ++Karel Hynek Mácha++ (_Máj_)
-	- ++Karel Havlíček Borovský++ (_Epigramy_, _Král Lávra_, _Tyrolské elegie_)
-	- ++Božena Němcová++ (_Národní pověsti a báchorky_, _Babička_, _V zámku a podzámčí_, _Divá Bára_...)
+	- <u>Josef Kajetán Tyl</u> (_Fidlovačka, aneb žádný hněv a žádná rvačka_, _Paličova dcera_, _Strakonický dudák_...)
+	- <u>Karel Hynek Mácha</u> (_Máj_)
+	- <u>Karel Havlíček Borovský</u> (_Epigramy_, _Král Lávra_, _Tyrolské elegie_)
+	- <u>Božena Němcová</u> (_Národní pověsti a báchorky_, _Babička_, _V zámku a podzámčí_, _Divá Bára_...)

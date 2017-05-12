@@ -20,25 +20,25 @@
 	- přímá řeč, nepšímá řeč, polopřímá řeč
 	- dialogy, monology
 - __Postavy:__
-	- ++Řehoř Samsa++
+	- <u>Řehoř Samsa</u>
 		- mladý obchodní cestující
 		- spořádaný zaměstnanec
 		- živitel celé rodiny
 		- dobrosrdečný (až příliš?)
 		- smířený
-	- ++sestra (Markétka)++
+	- <u>sestra (Markétka)</u>
 		- chce uznání
 		- hodná
 		- tak trochu pubertální
 		- hybná síla děje
-	- ++otec++
+	- <u>otec</u>
 		- senilní
 		- neschopen smířit se se změnami
-	- ++matka++
+	- <u>matka</u>
 		- citlivá
 		- nechce se Řehoře zbavit
 		- bijí se brouka
-	- ++posluhovačka++
+	- <u>posluhovačka</u>
 		- zlomyslná
 - __Jazykové prostředky__
 	- spisovné, chladné, málo obrazné
@@ -74,9 +74,9 @@
 		- detektivky, sci-fi, fantasy, antiutopie (distopie) 
 	- Kafka pražský Němec
 	- další pražští Němci:
-		- ++Gustav Meyring++ (_Golem_)
-		- ++Franz Werfel++ (_Verdi, Smrt maloměšťáka_)
-		- ++Max Brod++
+		- <u>Gustav Meyring</u> (_Golem_)
+		- <u>Franz Werfel</u> (_Verdi, Smrt maloměšťáka_)
+		- <u>Max Brod</u>
 			- propagoval českou literaturu v té svojí německé
 			- zdramatizoval Haška do Němčiny
 			- měl po Kafkově smrti spálit jeho dílo, ale radši ho vydal

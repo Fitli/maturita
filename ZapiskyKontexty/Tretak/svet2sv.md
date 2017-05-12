@@ -9,22 +9,22 @@
 
 ###Umělecké směry
 - __fauvismus__ -- dravost, velké barevné plochy, barvy neodpovídají realitě, kontrasty, zjednodušené tvary
-	- malíř ++Henri Matisse++
+	- malíř <u>Henri Matisse</u>
 - __expresionismus__ -- vyjádření výrazu, většinou negativního
 	- strach, úzkost, smutek
-	- ++Edward Munch++ -- výkřik
+	- <u>Edward Munch</u> -- výkřik
 	- v literatuře: deprese, psychologické procesy probíhající v hlavě, nejistota člověka v chaotickém světě
 	- postavy nerozlišují realitu x sen, volně řazené výjevy, hyperbola
 	- motivy šílenství, úzkosti, strachu
 - __kubismus__ -- rozebrání předmětu na součástky, hrany, úhly, poskládat zpátky do jednoho pohledu
 	- především ve výtvarném umění
-	- ++Pablo Picasso++, ++Georges Braque++
+	- <u>Pablo Picasso<u>, </u>Georges Braque</u>
 	- v literatuře rozebírání, různé úhly, mozaikovitý popis
 	- ruší hranice mezi poezií a prózou
-	- hrají si s grafikou -- __++Apollinaire++__ -- Kaligramy
+	- hrají si s grafikou -- __<u>Apollinaire</u>__ -- Kaligramy
 - __futurismus__
 	- nahlížení na budoucnost, vývoj, nezájem o minulost
-	- 1909 _Manifest futurismu_ -- __++Filippo Tommaso Marinetti++__
+	- 1909 _Manifest futurismu_ -- __<u>Filippo Tommaso Marinetti</u>__
 		- provokativní
 		- hyperbola
 		- vedl k radikalismu
@@ -38,12 +38,12 @@
 	- umělcem každý, kdo je schopen popustit uzdu fantazii
 	- náhoda jako umělecký princip, umění z čehokoliv
 	- vznik jako protipól k chaotické válce
-	- ++__Tristan Tzara__++ -- Rumun ve Francii, stříhal noviny a lepil je
+	- <u>__Tristan Tzara__</u> -- Rumun ve Francii, stříhal noviny a lepil je
 - __Surrealismus__
 	- opak reality
 	- "román je přežitý" -> metoda automatického psaní -- funguje podvědomí
-	- ++André Breton++, ++Louis Aragon++, ++Salvador Dalí++
-	- ++Luis Buňuel++ -- režisér, Andaluzský pes
+	- <u>André Breton<u>, <u>Louis Aragon</u>, </u>Salvador Dalí</u>
+	- <u>Luis Buňuel</u> -- režisér, Andaluzský pes
 - __civilismus__ -- civilizace
 - __vitalismus__ -- život
 - __naturismus__
@@ -67,10 +67,10 @@
 	- víra
 
 ###Autoři
-- __++Filippe Tommaso Marinetti++__
+- __<u>Filippe Tommaso Marinetti</u>__
 	- _Manifest futurismu_
 	- sbírka _Osvobozená slova_ -- osvobození z formy, bez sloves v určitém tvaru
-- __++Vladimir Majakovskij++__
+- __<u>Vladimir Majakovskij</u>__
 	- Rusko
 	- futurismus -- ruský nesouvisí s Italským
 	- manifesty _Zdechlá luna_, _Políček veřejnému vkusu_
@@ -86,7 +86,7 @@
 		- odkazuje k buffonádě 'divadlo na satiře a nadsázce
 		- reaguje na biblické motivy potopy -- 7 párů čistých a 7 nečistých přežije -> třídní boj
 	- oslavná poéma o Leninovi
-- __++Sergej Jesenin++__
+- __<u>Sergej Jesenin</u>__
 	- znali se s Majakovským
 	- mezi tradičním a moderním uměním
 	- z venkova
@@ -102,7 +102,7 @@
 	- sbírka _Moskevské hospody_
 	- _Chuligánova zpověď_
 	- _Verše skandalistovy_
-- __++Guillarme Apollinaire++__
+- __<u>Guillarme Apollinaire</u>__
 	- psal poezii, romány a dramata
 	- _Zahnívající kouzelník_ -- román
 		- inspiroval Nezvala
@@ -112,7 +112,7 @@
 	- _Prsy Tiréziovy_ -- avantgardní (absurdní) drama
 		- diskriminace žen
 	- jeho díla překládal Karel Čapek
-- __++Christian Morgenstern++__
+- __<u>Christian Morgenstern</u>__
 	- Němec
 	- předchůdce dadaismu a surrealismu
 	- hravost poezie
@@ -130,7 +130,7 @@
 
 ####Angloamerická moderna
 - podobný básnický styl
-- neformální hlavou __++Ezra Pound++__ -- američan v Evropě
+- neformální hlavou __<u>Ezra Pound</u>__ -- američan v Evropě
 	- organizuje setkání
 	- pomáhá začínajícím autorům
 	- antisemita -- sympatizoval s Mussolinim, zapojil se do vysílání proti Rooseveltovi
@@ -143,14 +143,14 @@
 - __vorticismus__ -- dodat dynamiku
 	- zmatek, chaos
 	- výr myšlenek
-- __++Robinson Jeffers++__
+- __<u>Robinson Jeffers</u>__
 	- žil v souladu s přírodou
 	- poémy s rozměry tragédie
 	- _Caudor_ -- trochu jako Faidra -- sex s nevlastním synem
 	- _Hřbec Grošák_
 	- _Pastýřka putující k dubnu_
 	- _Mara_
-- __++Jacques Prévert++__
+- __<u>Jacques Prévert</u>__
 	- _Slova_ -- sbírka básní
 		- vrací do poezie všední každodennosti
 		- růnorodost témat
@@ -161,7 +161,7 @@
 - silný odraz 1 světové války
 - ztracená generace -- mladí vojáci, kteří se po válce nebyli schopni zařadit do normálního života
 - nejvýraznější v USA, ale i jinde
-- __++Romain Rolland++__
+- __<u>Romain Rolland</u>__
 	- profesor dějin hudby
 	- próza a drama
 	- životopisy:
@@ -170,7 +170,7 @@
 		- _Život Tolstého_
 		- _Mahátmá Gándhí_
 	- _Petr a Lucie_
-- __++Erich Maria Remarque++__
+- __<u>Erich Maria Remarque</u>__
 	- Němec
 	- velmi ovlivněn válkou
 	- utekl z Německa před fašismem
@@ -179,12 +179,12 @@
 	- _Černý obelisk_
 	- _Miluj bližního svého_
 	- _Nebe nezná vyvolených_ -- po 2. sv. válce
-- __++Henri Barbusse++__
+- __<u>Henri Barbusse</u>__
 	- _Oheň_ -- román
 		- srovnáván s Na západní frontě klid
 		- více hlavních postav
 		- i naturalismus, lyrika
-- __++Ernest Hemingway++__
+- __<u>Ernest Hemingway</u>__
 	- 1899 – 1961
 	- jezdil se sanitkou na jižní frontě 1. světové války
 	- bojoval i ve 2. světové válce
@@ -198,8 +198,8 @@
 	- román _Fiesta_ (někdy překládáno jako I slunce vychází) – ztracená generace
 	- novela _Stařec a moře_
 	- román _Komu zvoní hrana_ – španělská občanská válka, důraz na kolektiv
-		- aluze na ++Johna Donna++ (renesance)
-- __++Michail Šolochov++__
+		- aluze na <u>Johna Donna</u> (renesance)
+- __<u>Michail Šolochov</u>__
 	- ovlivněn oblastí okolo Donu
 	- _Donské povídky_
 	- _Tichý Don_ -- románová epopej = román řeka

@@ -1,5 +1,5 @@
 ##Zachycení 2. světové války v literatuře
-__++Günther Grass++__
+__<u>Günther Grass</u>__
 - nositel NC za literaturu
 - navazuje na piktoreskní román, na Joyce, Prousta, Woolfovou -- proud vědomí
 - magično, mimo realitu
@@ -16,7 +16,7 @@ __++Günther Grass++__
 	- _Kočka a myš_
 	- _Psí léta_
 
-__++William Styron++__
+__<u>William Styron</u>__
 - sociální problémy na jihu USA -- otroctví, válka severu proti jihu, táhnutí problémů
 - _Ulehni v temnotách_
 	- román o rozpadu jižanské rodiny
@@ -34,7 +34,7 @@ __++William Styron++__
 	- Nathan -- přítel Sofie
 	- mnohovrstevnatá kompozice, časové skoky
 	- opakované volby menších zel
-- __++Joseph Heller++__
+- __<u>Joseph Heller</u>__
 	- _Hlava XXII_
 		- satirický protiválečný román
 		- hlavní postava Yossarian -- na letecké základně 
@@ -49,14 +49,14 @@ __++William Styron++__
 - nechají se vláčet osudem
 - pak už nemá smysl se snažit, protože to tak jako tak dopadne špatně
 - v mezní situaci přijdou na to, že mají možnost volby -> pocit svobody
-- __++Albert Camus++__
+- __<u>Albert Camus</u>__
 	- filosofický esej _Mýtus o Sisifovi_
 	- _Caligula_
 		- divadelní hra
 		- bytí je absurdní, takže je v pohodě, když bude konat zlo
 	- _Mor_
 		- román o chování lidí
-- __++Jean Paul Sartre++__
+- __<u>Jean Paul Sartre</u>__
 	- vyjářením lidské svobody je čin
 	- konáním se člověk stává zodpovědným, a to je dobře
 	- _Hnus_ / _Nevolnost_
@@ -83,10 +83,10 @@ __++William Styron++__
 - divoký způsob života -- drogy
 - otevření různým tématům -- politika, erotika, homosexualita...
 - otevřenost formy -- vulgarity...
-- __++Allen Ginsberg++__
+- __<u>Allen Ginsberg</u>__
 	- proslavil se básní _Kvílení_ (sbírka _Kvílení a jiné básně_)
 	- _Kadiš_ -- modlitba nad hrobem matky
-- __++Jack Kerouac++__
+- __<u>Jack Kerouac</u>__
 	- prozaik, inspirován touláním po Státech
 	- _Na cestě_/_On the Road_
 		- střípky z cestování
@@ -102,8 +102,8 @@ __++William Styron++__
 - každodenní život
 - město i venkov
 - jako když se s kamerou postupně přibližuji, šli od hrubého popisu okolí do detailu
-- režisér ++Frederico Fellini++
-- __++Alberto Moravia++__
+- režisér <u>Frederico Fellini</u>
+- __<u>Alberto Moravia</u>__
 	- _Římanka_ -- hezká šestnáctiletá holka, stane se prostitukou
 	- _Horalka_ -- matka a dcera utíkají před válkou na venkov, když se vrátí do města, přepadnou je vojáci a dceru znásilní
 	- _Římské povídky_ -- každodenní život lidí z kraje společnosti
@@ -116,18 +116,18 @@ __++William Styron++__
 - popisován pouze sled událostí a jevů bez příčinných souvislostí
 - chybí "vševědoucí" vypravěč -- pohled postav
 - detektivní zápletky, tajemno
-- __++Allain Robbe-Grillet++__ [elen rob-grié]
+- __<u>Allain Robbe-Grillet</u>__ [elen rob-grié]
 	- _Gumy_
 		- detektivka naruby
 		- víme celou dobu, kdo je vrah
 	- _Žárlivost_
 		- ve francouštině je stejné slovo pro žárlivost a žaluzie -- symbolický název -- události za žaluziemi
-- __++Natalia Sarrautová++__
+- __<u>Natalia Sarrautová</u>__
 
 ##Magický realismus
 - vychází hlavně z latinoameriky
 - nenápadná a plynulá kombinace maagických legend s realismem
-- __++Gabriel García Marquéz++__
+- __<u>Gabriel García Marquéz</u>__
 	- _Sto roků samoty_
 		- rodina Buendiů
 		- pár opouští rodnou vesnici, zakládá městečko
@@ -138,35 +138,35 @@ __++William Styron++__
 ##Postmodernismus
 - návrat ke klasickému románu
 - snaží se zaujmout hodně lidí
-- __++Milan Kundera++__
-- __++Umberto Eco++__
+- __<u>Milan Kundera</u>__
+- __<u>Umberto Eco</u>__
 	_Jméno růže_
 		- dobrodružný příběh s detektivní zápletkou, odehrává se ve středověku
 		- mystifikace -- autor tvrdí, že existuje historický dokument -- paměti vypravěče
 		- výrazná symbolika
 		- filosofické pasáže
 		- složitá kompozice
-- __++Dan Brown++__
+- __<u>Dan Brown</u>__
         _Šifra mistra Leonarda_
 
 ##Člověk v totalitní společnosti
-- __++Alexandr Solženicyc++__
+- __<u>Alexandr Solženicyc</u>__
 	- absolvent matematické fakulty
 	- obsah hodně autentický, ani nemusel být tak dobře napsaný
 	- v soukromé korespondenci z války se vyjádřil špatně o Stalinovi -> odsouzen k 8 letům v gulagu
 	- pak měl rakovinu, vyléčil se, pak se mohl vrátit do normálního života, ale nesměl oficiálně psát
 	- _Jeden den Ivana Děnisoviče_ -- novela z gulagu
 	- _Souostroví Gulag_ -- třídílný román, vyšel v zahraničí, ale KGB se o tom dozvěděla, byl vyhnán do Německa
-- __++Dominik Tatarka++__
+- __<u>Dominik Tatarka</u>__
 	- slovák
 	- podepsal Chartu 77
 	- _Farská republika_
-- __++Jiří Kupka++__
+- __<u>Jiří Kupka</u>__
 	- _Krvavé jahody_
 		- reálný příběh
 		- Věra Sognarová -- jejich matku ruského původu a ji se sestrou odvede ruská tajná policie z jejich domova v Brně, protože kdysi odešla z Ruska s českým legionářem
 		- po dlouhé době se se setrou zvládnou vrátit domů, ale tady to moc nefunguje
-- __++George Orwell++__
+- __<u>George Orwell</u>__
 	- _Barmské dny_
 	- _Trosečníkem v Paříži a Londýně_
 	- _1984_
@@ -176,12 +176,12 @@ __++William Styron++__
 		kritika SS
 		
 ##Dystopie
--__++William Golding:++__ _Pán much_
--__++Ray Bradbury:++__ _145° Fahrenheita_
--__++K. Čapek:++__ _Válka s mloky_
--__++Jevginy Zanyatin:++__ _My_
--__++Egon Bondy:++__ _Invalidní sourozenci_
--__++Suzanne Collinsová:++__ _Hunger games_
+-__<u>William Golding:</u>__ _Pán much_
+-__<u>Ray Bradbury:</u>__ _145° Fahrenheita_
+-__<u>K. Čapek:</u>__ _Válka s mloky_
+-__<u>Jevginy Zanyatin:</u>__ _My_
+-__<u>Egon Bondy:</u>__ _Invalidní sourozenci_
+-__<u>Suzanne Collinsová:</u>__ _Hunger games_
 
 		
 
@@ -189,17 +189,17 @@ __++William Styron++__
 - nedávající smysl, v rozporu se zdravým rozumem
 - absurdita -- životní pocit bezmocného člověka
 - nelogické rozhovory, jazyk nepředává informace
--__++Samuel Beckett++__
+-__<u>Samuel Beckett</u>__
 	- _Čekání na Godota_
 		- čekají na spasení, nic nepřichází
 		- opakují se stejné situace
--__++Engene Ionesco++__
+-__<u>Engene Ionesco</u>__
         - _Plešatá zpěvačka_
 		- název nemá souvislost s obsahem
 		- dva manželské páry
 		- hodně wtf
 		- každý si mele něco svého a vůbec to spolu nesouvisí
--__++Friedrich Durrenmatt++__
+-__<u>Friedrich Durrenmatt</u>__
         - snažil se poukazovat na fungování společnosti 
         - _Návštěva staré dámy_
         - _Fyzikové_

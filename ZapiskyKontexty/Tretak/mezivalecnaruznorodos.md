@@ -14,7 +14,7 @@
 	- detektivky, sci-fi, fantasy, antiutopie (distopie) 
 
 ###USA
-- ++__Francis Scott Fitzgerald__++
+- <u>__Francis Scott Fitzgerald__</u>
 	- _Velký Gatsby_
 		- prázdnota života bohatých
 		- touha po lásce
@@ -22,7 +22,7 @@
 		- vlastní zážitky autora
 		- o psychicky narušené ženě
 	- _Povídky jazzového věku_
-- ++__William Faulkner__++
+- <u>__William Faulkner__</u>
 	- soužití černých a bílých
 	- naturalismus, moderna Dostojevskij
 	- Nobelova cena
@@ -42,7 +42,7 @@
 		- rodinné drama o plantážnické rodině
 	- čítanka 116 -- _Jdi tam, Mojžíši_
 		- zaprodal mého benjamína do otroctví -- aluze na Bibli
-- __++John Steinbeck++__
+- __<u>John Steinbeck</u>__
 	- sociální problémy
 	- hospodářská krize
 	- nositel Nobelovy ceny
@@ -58,17 +58,17 @@
 	- _O myších a lidech_ -- novela
 
 ###VB
-- __++John Galswothy++__
+- __<u>John Galswothy</u>__
 	- Nobelova cena
 	- realistické psychologické romány
 	- _Sága rodu Forsythů_
 		- o čtyřech generacích měšťanské rodiny
 		- vývoj britské společnosti
-- __++David Herbert Lawrence++__
+- __<u>David Herbert Lawrence</u>__
 	- _Milenec lady Chaterleyové_
 		- otevřený v oblasti ženské sexuality
 		- zmrzačený muž, manželé spolu žijou, ale nešahají na sebe a nemluví na sebe
-- __++James Joyce++__
+- __<u>James Joyce</u>__
 	- experimentální próza
 	- hraní si
 	- _Odyseus_
@@ -84,7 +84,7 @@
 		- různé slohové postupy
 		- lidová rčení, vulgarismy, slovní hříčky
 		- kapitoly se liší místem, dějem, způsobem uvedení -- každá má barvu, část těla, umění
-- __++Virjinia Woolfová++__
+- __<u>Virjinia Woolfová</u>__
 	- deprese
 	- její díla oslavují život, prožívání
 	- květiny, hodiny
@@ -100,7 +100,7 @@
 	- _K majáku_
 
 ###Francie
-- __++Marcel Proust++__
+- __<u>Marcel Proust</u>__
 	- profesionální spisovatel -- byl z bohaté rodiny
 	- _Hledání ztraceného času_
 		- vzpomínání
@@ -110,7 +110,7 @@
 		- díly na sebe nemusí navazova, objevují se a mizí postavy
 		- polopřímá, nevlastní přímá řeč
 		- proud vědomí -- velmi dlouhé větvené věty
-- __++Antonie de Saint-Exupéry++__
+- __<u>Antonie de Saint-Exupéry</u>__
 	- nadšený letec
 	- umřel jako dobrovolník ve 2. sv
 	- _Malý princ_ -- filosofická pohádka
@@ -135,18 +135,18 @@
 - pro lidi sklamání, protože po revoluci to nebylo lepší než před ní
 - oficiální literatura -- cenzurou povolena
 	- nesouvisející s politikou nebo souhlasící s režimem
-	- __++Maxim Gorkij++__
+	- __<u>Maxim Gorkij</u>__
 		- bosácké příběhy -- o nemajetných lidech, kteří pozitivně překvapí v nějaké situaci
 		- _Matka_
 			- její syn zemřel, když se zapojil do organizace proti carovi
 			- ona po jeho smrti pokračuje v jeho snaze
 			- začíná jeho revolucionářské období
 		- později prokomunistická tvorba
-	- __++Michail Šolochov++__
+	- __<u>Michail Šolochov</u>__
 - vnitřní emigrace
 	- psali díla, která věděli, že nebudou moci vyjít
 	- zveřejněna buď až po smrti Stalina, nebo v zahraničí
-	- __++Boris Pasternak++__
+	- __<u>Boris Pasternak</u>__
 		- básník, prozaik
 		- překládal Sheakespeara
 		- _Život -- má sestra_ -- sbírka
@@ -155,7 +155,7 @@
 			- inteligence po revoluci -- utlačováni
 			- komplikovaná láska
 			- sem tam poezie -- psaná hlavní postavou
-	- __++Michail Bulgakov++__
+	- __<u>Michail Bulgakov</u>__
 		- drama, satirické povídky, sci-fi
 		- _Bílá garda_/divadelní zpracování _Dni Trubinových_
 			- autobiografické
@@ -181,7 +181,7 @@
 			- jeho gf Markétka chce pomoct od Wolanda, za to mu dělá hostesku na plese
 			- nakonec se setkávají všichni, i s postavama z té knížky v jakémsi meziprostoru mimo krutou realitu
 - exilová literatura
-	- __++Ivan Bunin++__
+	- __<u>Ivan Bunin</u>__
 		- ve Francii
 		- kratší prozaické útvary, sled obrazů
 		- vystižení atmosféry, pocitů
@@ -194,7 +194,7 @@
 
 ###Německo
 - chybí nějací dva lidi
-- __++Hermann Hesse++__
+- __<u>Hermann Hesse</u>__
 	- básník, prozaik, esejista
 	- Nobelova cena
 	- orientální filosofie, buddhismus
@@ -202,7 +202,7 @@
 	- _Stepní vlk_
 		- experimentální román
 		- hlavní hrdina schizofrenik
-- __++Lion Feuchtwanger++__
+- __<u>Lion Feuchtwanger</u>__
 	- aktualizovaná historická próza
 		- _Židovka z Toleda_
 			- 13\. století
@@ -220,18 +220,18 @@
 
 #####Pražská německá literatura
 - němci žijící v Praze, protože tam prostě normálně žili
-- __++Gustav Meyring++__
+- __<u>Gustav Meyring</u>__
 	- _Golem_
 	- nebyl Žid
-- __++Franz Werfel++__
+- __<u>Franz Werfel</u>__
 	- _Verdi_ -- životopisný román
 	- _Smrt maloměšťáka_
-- __++Max Brod++__
+- __<u>Max Brod</u>__
 	- velký kamarád Kafky
 	- propagoval českou literaturu v té svojí německé
 	- zdramatizoval Haška do Němčiny
 	- měl po Kafkově smrti spálit jeho dílo, ale radši ho vydal
-- __++Franz Kafka++__
+- __<u>Franz Kafka</u>__
 	- ukázka _Před zákonem_
 	- jeho hrdinové jsou lidé, kteří jsou něčím manipulováni a nemají sílu se tomu vzepřít
 	- vzdalují se společnosti
@@ -267,23 +267,23 @@
 				- závěr -- absurdní
 
 ##Drama a divadlo
-- hraje se v zahraničí (u nás ++Ipsen++, ++Čechov++ -- lyrizované drama, míjivé dialogy, ++Oscar Wilde++ -- konverzační komedie)
+- hraje se v zahraničí (u nás <u>Ipsen<u>, <u>Čechov</u> -- lyrizované drama, míjivé dialogy, </u>Oscar Wilde</u> -- konverzační komedie)
 - výměna zkušeností mezi divadly
 - rozvoj techniky
 - cizokrajná inspirace (Asie)
 - klasické divadlo
 	- Moskevské divadlo MCHAT
-		- režiséři ++Stanislavskij++, ++Němitrovič -- Dančenko++
+		- režiséři <u>Stanislavskij<u>, </u>Němitrovič -- Dančenko</u>
 			- jevištní realismus
 			- dokonalé zvládnutí všech prvků
 			- až 100 zkoušek
 			- herci musí děj prožívat
 			- psychologické propracování postav
-	- ++__G. B. Shaw__++
+	- <u>__G. B. Shaw__</u>
 		- kritický k myšlení Britů
 		- _Pigmalion_
 - Experimentální divadlo
-	- __++Luigi Ppirandello++__
+	- __<u>Luigi Ppirandello</u>__
 		- avantgerdní autor: neobvyklé náměty a prvky
 		- _Každý má svou pravdu_
 			- krédo všech jeho her
@@ -291,9 +291,9 @@
 		- _Šest postav hledá autora_
 			- do divadla během zkoušky přijde rodina s tím, že má zajímavý životní příběh a herci jej mají ztvárnit
 			- matka má s otcem 1 dítě pak jde za jiným a s tím má další 3
-	- ++__G. Apollinaire__++
+	- <u>__G. Apollinaire__</u>
 		- Prsy Terésiovy -- o emancipaci
-	- ++__Bertold Brecht__++
+	- <u>__Bertold Brecht__</u>
 		- soustředí se na výraz
 		- temné stránky
 		- psychika
@@ -332,7 +332,7 @@
 			- o té jeho rodince
 			- graduje se napětí ve vztazích mezi postavami
 			- přes svůj problém nedokážou ostatním pomoct
-	- __++Federico García Lorca++__
+	- __<u>Federico García Lorca</u>__
 		- zemřel v občanské válce
 		- _Dům Bernardy Albové_
 			- o tradicích a nebezpečí, které nese jejich dodržování

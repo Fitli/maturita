@@ -11,9 +11,9 @@
         - všeobecné volební právo
         - soužití s menšinami klidné, uspokojivé a tolerantní
     - podepsali např.
-        - ++Vilém Mrštík++
-        - ++Josef Karel Šlejhar++
-        - ++__František Xaver Šalda__++
+        - <u>Vilém Mrštík</u>
+        - <u>Josef Karel Šlejhar</u>
+        - <u>__František Xaver Šalda__</u>
         	- nejvýznamější český literární kritik
         	- kritika je něco jako umělecký žánr
         	- vyzdvihoval individuální přínos, specifičnost, svobodu vyjádření
@@ -24,7 +24,7 @@
         	- _Boje o zítřek_ -- soubor esejů o vztahu umění k životu
         	- _Duše a dílo_ -- hodnocení romantických autorů (Rousseau, Mácha...)
         	- _O nejmladší poezii české_ -- Walker, Seifert, Nezval...
-        - ++__Antonín Sova__++
+        - <u>__Antonín Sova__</u>
         	- jižní Čechy
         	- jeho matka zamřela, když mu bylo 15
         	- ředitel městské knihovny v Praze
@@ -38,7 +38,7 @@
         		- _Údolí nového království_ -- symbol lepšího světa
         		- _Ještě jednou se vrátíme_ -- láska
         	- lyrizovaná próza
-        - ++__Otokar Březina__++
+        - <u>__Otokar Březina__</u>
         	- symbolismus
         	- pouze 5 sbírek v průběhu 6 let
         		- _Tajemné dálky_
@@ -50,7 +50,7 @@
         	- eseje
         		- _Hudba pramenů_
         		- esej -- zamýšlí se nad odbornou problematikou uměleckými prostředky
-        - ++__Josef Svatopluk Machar__++
+        - <u>__Josef Svatopluk Machar__</u>
             - působil v politice
             - přívrženec TGM
             - krátce inpektorem armády

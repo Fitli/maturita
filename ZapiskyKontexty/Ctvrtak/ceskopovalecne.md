@@ -6,7 +6,7 @@
 - 1948 komunistický převrat -- mají všechnu moc, ministry
 - začli likvidovat své kritiky, včetně svých příslušníků
     - Milada Horáková(†), Záviš Kalandra(†), Jan Zahradníček(13 let)
-    - ++Artur London++: _Doznání_
+    - <u>Artur London</u>: _Doznání_
 - cenzura, zánik časopisů, odstraňování knih z knihoven -- Čapek, Foglar, křesťanský proud, legionáři
 - vlna emigrace (Egon Hostovský, Pavel Tigrid)
 - hledání nekontroverzní témat
@@ -22,9 +22,9 @@
 - znovuoběvování některých knih v knihovnách
 - kritičtější časopisy (_Host do domu, Plamen, Literární noviny_)
 - __60\. léta__ další uvolňování, snaha o reformování komunistické strany (Alexander Dubček)
-- 1967 -- sjezd československých spisovatelů -- projevy ++Milan Kundera++, ++Ludvík Vaculík++, ++Václav Havel++
+- 1967 -- sjezd československých spisovatelů -- projevy <u>Milan Kundera<u>, <u>Ludvík Vaculík</u>, </u>Václav Havel</u>
     - kritika nerozhodnosti komunistů
-- 1968 -- ++Ludvík Vaculík++: _2000 slov_
+- 1968 -- <u>Ludvík Vaculík</u>: _2000 slov_
 - ti skalní a Moskva z reforem měli strach
     - žádost státům Varšavské smlouvy o pomoc
 - okupace
@@ -79,7 +79,7 @@
 - surrealismus
 - katolická poezie
 - poezie písňových textů
-- __++Josef Kainar++__
+- __<u>Josef Kainar</u>__
     - básník, dramatik, psal pro děti
     - _Nové mýty_
         - _Stříhali dohola malého chlapečka_
@@ -97,15 +97,15 @@
 ###Experimentální (konkrétní) poezie
 - interdisciplinární
 - dobře dešifrovatelná
-- ++__Jiří Kolář__++
+- <u>__Jiří Kolář__</u>
     - _Básně ticha_
     - _Prométheova játra_
-- ++__Josef Hiršal, Bohumila Grégrová__++
+- <u>__Josef Hiršal, Bohumila Grégrová__</u>
     - _Gramatické texty_
-- ++__Václav Havel__++
+- <u>__Václav Havel__</u>
     - _Antikódy_ -- typografické básně
 ### Další poezie
-- ++__Václav Hrabě__++
+- <u>__Václav Hrabě__</u>
     - vymezoval se vůči společnosti, všemu oficiálnímu
     - působil osaměle
     - existencionální tendence
@@ -116,11 +116,11 @@
         - láska, Praha, příroda, lampy
         - původně 12 básní, přidané další básně, které posbíral jeho syn
     - udusil se plynem ze sporáku
-- __++Oldřich Mikulášek++__
+- __<u>Oldřich Mikulášek</u>__
     - _Ortely a milosti_ -- soudí hnusy doby, v kontrastu s tím dobrým
     - _Šokovaná růže_ -- nesouhlas s okupací
     - _Agogh_ -- exilová obava z budoucnosti, pesimismus, prázdnota
-- __++Jan Skácel++__
+- __<u>Jan Skácel</u>__
     - meditativní, reflexivní, úvahová poezie
     - časté motivy: Ticho, smutek, tajemství, dítě, pokora, tma, strach
     - metaforické, obrazné, střípky situací
@@ -135,7 +135,7 @@
         - _Kam odešly laně_
 ### Underground
 ##### 1\. vlna
-- __++Egon Bondy++__
+- __<u>Egon Bondy</u>__
     - román _Invalidní sourozenci_
         - distopie
         - Česko za 600 let, svět se zaplavuje mořem, skupina lidí invalidé -- underground -- nesmí pracovat, ale jsou placení, aby nebrblali
@@ -143,19 +143,19 @@
         - odkaz na hippies
         - hlavní postavy A a B, partneři a zároveň polovlastní sourozenci
         - milion aluzí
-- __++Ivo Vodseďálek++__
+- __<u>Ivo Vodseďálek</u>__
 - totální realismus/trapná poezie
     - míchání prázdných režimních frází s osobními kecy
 ##### 2\. vlna
-- __++Ivan Martin Jirous++__
+- __<u>Ivan Martin Jirous</u>__
     - různorodá směsice poezie
 ##### 3\. vlna
-- __++Jiří Krchovský++__
+- __<u>Jiří Krchovský</u>__
     - velmi sarkastický
     - perverznosti
 ### Po 1989
 ##### Starší generace navrátilců z imigrace a zakázaných
-- __++Ivan Diviš++__
+- __<u>Ivan Diviš</u>__
     - působil už v 60. letech
     - "Kazatel českého národa"
     - ostrá kritika národa
@@ -164,21 +164,21 @@
     - _Obrať koně_ -- 2 vydání (87 a 92)
 #####Katolický proud
 - za socialismu hodně utlačován
-- __++Zdeněk Rotrekl++__
+- __<u>Zdeněk Rotrekl</u>__
     - 1948 blízko popravě, pak dlouho vězněn, ven se dostal až za Pražského Jara
     - pak ho zase zakázali
     - psal poezii i prózu
     - _Útěk do Egypta_
     - _Litanie k andělům_
 ##### generace "osamělých běžců"
-- __++Viola a Sylva Fisherovy++__
+- __<u>Viola a Sylva Fisherovy</u>__
     - _Chvění závodních koní_
-- __++Petr Borkovec++__
+- __<u>Petr Borkovec</u>__
     - motivy lidových písní, křesťanství, přírody
     - překladatel
 ###Próza
 - ...
-- __++Bohumil Hrabal++__
+- __<u>Bohumil Hrabal</u>__
     - vystřídal před psaním hodně povolání, pak z toho čerpal
     - spousta děl neprošla režimem, ale byl pak ochotný je přepracovat
     - zabývá se lidmi víc než dějem
@@ -194,22 +194,22 @@
 #### Socialistický realismus
 - oficiální próza, která sloužila ideologii
 - budovatelský román -- budování socialismu v Československu poničeném válkou
-    - __++Václa Řezáč++__
+    - __<u>Václa Řezáč</u>__
         - _Nástup_
         - _Bitva_
         - severní Čechy po odsunu Němců, černobílé postavy
 
 #### Historický román
 - ten je fajn a nikoho nepohoršuje
-- __++Vladimír Neff++__
+- __<u>Vladimír Neff</u>__
     - _Zlá krev_ -- díl pentalogie, o generaci dvou rodů
     - fiktivní příběhy a postavy -- Petr Kukaň z Kukaně
-- __++Václav Kaplický++__
+- __<u>Václav Kaplický</u>__
     - _Kladivo na čarodějnice_ -- aktualizovaný historický román
-- __++Jarmila Loukotková++__
+- __<u>Jarmila Loukotková</u>__
     - _Navzdory básník zpívá_ -- o Villonovi
 - ...
-- __++Vladimír Páral++__
+- __<u>Vladimír Páral</u>__
     - studoval chemii, jeho postavy jsou chemici
     - všímá si stereotypů v lidském životě
     - citově vyprahlé cynické postavy
@@ -220,41 +220,41 @@
     - _Soukromá vichřice_
     - psal sci-fi
 ### Exil po 1948
-- __++Egon Hostovský++__
+- __<u>Egon Hostovský</u>__
     - postavy hledají svoji identitu, místo ve společnosti, ale nejde jim to
     - vykořisťování, strach, pronásledování
     - _Cizinec hledá byt_
 ### Literatura faktu
-- __++Miroslav Ivanov++__
+- __<u>Miroslav Ivanov</u>__
     - podrobná analýza zdrojů
     - _Zahrada života paní Betty_ -- o původu Boženy Němcové
 ## Po 68
 ### Oficiální literatura
-- __++Bohumil Hrabal++__
-- __++Páral++__
-- __++Ladislav Fuks++__
+- __<u>Bohumil Hrabal</u>__
+- __<u>Páral</u>__
+- __<u>Ladislav Fuks</u>__
 - Historické próza
-- __++Stanislav Rudolf++__
+- __<u>Stanislav Rudolf</u>__
 ### Samizdat
-- __++Eva Kantůrková++__
+- __<u>Eva Kantůrková</u>__
     - _Přítelkyně z domu smutků_ -- o vězení, kde byla politickou vězenkyní
-- __++Vaculík++__
-- __++Kohout++__
+- __<u>Vaculík</u>__
+- __<u>Kohout</u>__
 ### Exil
-- __++Kohout++__
-- __++Škvorecký++__
-- __++Kundera++__
+- __<u>Kohout</u>__
+- __<u>Škvorecký</u>__
+- __<u>Kundera</u>__
 ## Po 89
-- __++Michal Viewegh++__
+- __<u>Michal Viewegh</u>__
     - _Báječná léta pod psa_
     - _Účastníci zájezdu_
     - _Román pro ženy_
-- __++Jiří Kratochvíl++__
+- __<u>Jiří Kratochvíl</u>__
     - nový román
     - postmodernismus
     - magický realismus
     - _Avion_
-- __++Miloš Urban++__
+- __<u>Miloš Urban</u>__
     - redaktor v Mladé frontě
     - překládán
     - _Hastrman_

@@ -16,36 +16,36 @@
 - __vyprávěcí způsob:__ er-forma
 - __typy promluv:__ hodně dialogů v přímé řeči, skoro jako drama (taky to potom sám zdramatizoval)
 - __Postavy:__ 
-	- ++Lennie Small++
+	- <u>Lennie Small</u>
 		- mentálně postižený obr
 		- hodný
 		- silný
 		- nemotorný
 		- rád hladí hebké věci
 		- neumí ovládat svoji sílu
-	- ++George Milton++
+	- <u>George Milton</u>
 		- chodí s Lenniem za prací
 		- znají se od dětství
 		- stará se o Lennieho
 		- obětavost
 		- trpělivost
 		- zodpovědnost
-	- ++Candy++
+	- <u>Candy</u>
 		- starý uklízeč na ranči
 		- nemá ruku, má smradlavého psa
 		- nadchne se pro myšlenky společného hospodářství s Georgem a Lenniem a je ochoten do něj investovat svoje úspory
-	- ++Crooks++
+	- <u>Crooks</u>
 		- jediný černoch na ranči
 		- vzdělaný
 		- ostatními diskriminovaný
 		- zklamaný svým životem
-	- ++Curleyová++
+	- <u>Curleyová</u>
 		- krásná
 		- vyzývavá
 		- opuštěná
 		- touží po lásce
 		- stejně jako ti dva má sen
-	- ++Curley++
+	- <u>Curley</u>
 		- namyšlený
 		- boxer
 		- zakomplexovaný z malé výšky
@@ -61,20 +61,20 @@
 - __Kontext světové literatury:__
 	- Meziválečná literatura v Ameice
 	- ztracená generace
-	- ++Ernest Hemmigway++
+	- <u>Ernest Hemmigway</u>
 		- _Povídky_
 		- _Sbohem armádo_
 		- _Stařec a moře_
 		- _Fiesta_
 		- metoda špičky ledovce – z příbehu je odkryt jen kousek, velký prostor pro čtenářovu fantazii
-	- ++Francis Scott Fitzgerald++
+	- <u>Francis Scott Fitzgerald</u>
 		- _Velký Gatsby_
 			- prázdnota života bohatých
 		- _Něžná je noc_
 			- vlastní zážitky autora
 			- o psychicky narušené ženě
 		- _Povídky jazzového věku_
-	- ++William Faulkner++
+	- <u>William Faulkner</u>
 		- soužití černých a bílých
 		- retrospektiva, časové skoky, skládání ze střípků
 		- _Hluk a vřava_

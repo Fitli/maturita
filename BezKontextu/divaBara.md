@@ -13,35 +13,35 @@
 - __Vyprávěcí způsob:__ er-forma
 - __Typy promluv:__ všechny čtyři
 - __Postavy:__ 
-	- ++Bára++
+	- <u>Bára</u>
 		- odvážná, silná, svébytná, poctivá, přátelská
 		- velká hlava, velké oči, tmavé husté vlasy
 		- vypadá i chová se jinak než ostatní -- vesničané se na ni dívají zkrz prsty
-	- ++Jakub++
+	- <u>Jakub</u>
 		- Bářin otec
 		- nemluvný, pracovitý, má Báru moc rád, jeho výchova na ni má velký vliv
-	- ++Bára starší++
+	- <u>Bára starší</u>
 		- Bářina matka, zemřela když byla Bára malá, v šestinedělí omdlela při vaření -> sousedky si myslí, že polednice Bár v tu chvíli minimálně uřkla, možná dokonce vyměnila
-	- ++Elška++
+	- <u>Elška</u>
 		- Bařina nejlepší kamarádka, krásná, milá, z bohaté rodiny faráře, nedá na předsudky vesničanů
-	- ++panna Pepinka++
+	- <u>panna Pepinka</u>
 		- Elščina teta
 		- velmi přátrelská, upovídaná, organizátorka
-	- ++farář++
+	- <u>farář</u>
 		- Elščin strýc
 		- starý, moudrý, hodný
 		- většinou je nad věcí, přeje každému, aby byl v životě ťastný tak jak sám chce
-	- ++Jozífek++
+	- <u>Jozífek</u>
 		- Bářin kamarád
 		- slabý, nechává se Bárou ochraňovat, holky ho ve hrách používají jako podržtašku, ale to mu neva
-	- ++kostelníkovi (Vlčkovi)++
+	- <u>kostelníkovi (Vlčkovi)</u>
 		- Jozífkovi rodiče
 		- nemají rádi Báru, nechtějí, aby se s ní jejich syn kamarádil
-	- ++správce++
+	- <u>správce</u>
 		- ženich, kterého chce Pepinka dohodit Elšce
 		- bohatý, starší, ošklivý, strašpytel
 		- Elška ho pochopitelně nechce, chce si vzít lékaře Hynka z Prahy
-	- ++Myslivec++
+	- <u>Myslivec</u>
 		- zakoukal se do Báry, protože je jiná než ostatní děvčata
 		- podobný Jakubovy -- tichý, pocivý
 - __Jazyk:__

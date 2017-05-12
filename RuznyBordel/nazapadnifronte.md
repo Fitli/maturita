@@ -16,20 +16,20 @@
 	- poslední kapitola po Pavlově smrti je v er-formě
 - __Typy promluv:__ zejména přímá řeč, nepřímá řeč, nevlastní přímá řeč
 - __Postavy:__
-    - ++__Pavel Bäumer__++
+    - <u>__Pavel Bäumer__</u>
         - vypravěč a hlavní postava
         - pochází z velmi chudé rodiny
         - mladý student, nezkušený
         - vlastenecky nadšený - dobrovolně vstupuje do armády
         - autor do něj promítá sám sebe a své zážitky
-    - __++Stanislav Katczinsky++__ 
+    - __<u>Stanislav Katczinsky</u>__ 
         - nejstarší, hlava jejich skupiny, Pavlův nejlepší přítel
-    - __++Himmelstoss++__ 
+    - __<u>Himmelstoss</u>__ 
         - vedoucí výcviku, šikanuje své svěřené, ti mu to vrátí, a nekonec zi začne uvědomovat, že válka není žádné potěšení
-    - ++__Tjaden, Kropp, Müller, Leer, Haie__++ 
+    - <u>__Tjaden, Kropp, Müller, Leer, Haie__</u> 
         - Pavlovi spolužáci
         - různé přístupy k životu a k válce
-    - __++Kantorek++__
+    - __<u>Kantorek</u>__
         - jejich třídní profesor
         - donutí studenty jít do války
         - pak se tam dostane i on sám
@@ -47,7 +47,7 @@
 	- _Nebe nezná vyvolených_ -- po 2. sv. válce
 - __Světový kontext:__
 	- ztracená generace -- mladí vojáci, kteří se po válce nebyli schopni zařadit do normálního života
-	- __++Romain Rolland++__
+	- __<u>Romain Rolland</u>__
         - profesor dějin hudby
         - próza a drama
         - životopisy:
@@ -56,12 +56,12 @@
             - _Život Tolstého_
             - _Mahátmá Gándhí_
         - _Petr a Lucie_
-    - __++Henri Barbusse++__
+    - __<u>Henri Barbusse</u>__
         - _Oheň_ -- román
             - srovnáván s Na západní frontě klid
             - více hlavních postav
             - i naturalismus, lyrika
-    - __++Ernest Hemingway++__
+    - __<u>Ernest Hemingway</u>__
         - 1899 – 1961
         - jezdil se sanitkou na jižní frontě 1. světové války
         - bojoval i ve 2. světové válce
@@ -75,8 +75,8 @@
         - román _Fiesta_ (někdy překládáno jako I slunce vychází) – ztracená generace
         - novela _Stařec a moře_
         - román _Komu zvoní hrana_ – španělská občanská válka, důraz na kolektiv
-            - aluze na ++Johna Donna++ (renesance)
-    - __++Michail Šolochov++__
+            - aluze na <u>Johna Donna</u> (renesance)
+    - __<u>Michail Šolochov</u>__
         - ovlivněn oblastí okolo Donu
         - _Donské povídky_
         - _Tichý Don_ -- románová epopej = román řeka
