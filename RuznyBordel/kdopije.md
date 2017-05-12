@@ -19,9 +19,9 @@
 	- sdružený rytmus
 	- bez interpunkce
 - **Postavy:**
-	- ++Edison++
+	- <u>Edison</u>
 		- symbol pokroku techniky
-	- ++lyrický subjekt++
+	- <u>lyrický subjekt</u>
 		- vstupuje do děje úvahami, hledá smysl života, charakterizuje, komentuje, cituje,...
         - přechází od pesimismu k optimismu a radosti ze života
 - **Jazykové prostředky a jejich funkce:**
@@ -42,6 +42,6 @@
 	* Poetismus:
 		* ovlivnění Apollinairem a dadaismem
 		* básně všedního dne, popisuje obyčejné věci, soustředí se na současnost, štěstí, radost, emoce
-		* ++Jaroslav Seifert++: __Na vlnách TSF__
-		* ++Vladislav Vančura++: __Rozmarné léto__ (próza ovlivněná poetismem)
-		* ++Konstantin Biebl++: __Zloděj v Bagdádu__; __S lodí, jež dováží čaj a kávu__
+		* <u>Jaroslav Seifert</u>: __Na vlnách TSF__
+		* <u>Vladislav Vančura</u>: __Rozmarné léto__ (próza ovlivněná poetismem)
+		* <u>Konstantin Biebl</u>: __Zloděj v Bagdádu__; __S lodí, jež dováží čaj a kávu__

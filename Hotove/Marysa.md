@@ -15,30 +15,30 @@
 	- hra je doplněna scénickými poznámkami
 - __Typy promluv:__ přímá řeč, monology
 - __Postavy:__ 
-	- ++Maryša++
+	- <u>Maryša</u>
 		- mladá dívka
 		- krásná
 		- zarputilá
 		- odmítá domluvený sňatek, ale nakonec je do něj dotlačena
-	- ++Francek++
+	- <u>Francek</u>
 		- milý Maryši
 		- chudý
 		- odvážný, tvrdohlavý, věrný, impulzivní
-	- ++Vávra++
+	- <u>Vávra</u>
 		- bohatý mlynář
 		- vdovec, poté Maryšin manžel
 		- skolny k násilí a alkoholismu
-	- ++Lízal++
+	- <u>Lízal</u>
 		- Maryšin otec
 		- bohatý sedlák, dobrý hospodář
 		- přísný
 		- hledí na peníze
 		- později lítostivý
-	- ++Lízalka++
+	- <u>Lízalka</u>
 		- Maryšina matka
 		- souhlasí se svým manželem
 		- nepřipustila si chybu
-	- ++Stařenka++
+	- <u>Stařenka</u>
 		- Maryšina babička
 		- jako jediná Maryšu podporuje
 - __Jazyk:__
@@ -59,9 +59,9 @@
 		- _Obrazy z Tater_
 - __Kontext české/světové literatury:__
 	- Český naturalismus – člověk vytvořený geny a prostředím a nic s tím nenadělá
-		- ++Josef Karel Šlejkar++ (_Kuře melancholik_)
-		- ++Karel Matěj Čapek-Chod++ (_Kašpar Lén Mstitel_, _Jindrové_)
+		- <u>Josef Karel Šlejkar</u> (_Kuře melancholik_)
+		- <u>Karel Matěj Čapek-Chod</u> (_Kašpar Lén Mstitel_, _Jindrové_)
 	- realistické divadlo
-		- ++Ladislav Stroupežnický++ – _Naši Furianti_
-		- ++Gabriela Preisová++ – _Gazdina roba_ (hodně podobná Mrštíkům – témata, nářečí)
+		- <u>Ladislav Stroupežnický</u> – _Naši Furianti_
+		- <u>Gabriela Preisová</u> – _Gazdina roba_ (hodně podobná Mrštíkům – témata, nářečí)
 	- v jejich době vznik Národního divadla

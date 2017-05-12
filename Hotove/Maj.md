@@ -25,19 +25,19 @@
 - __Veršová výstavba:__ vázaný verš, střídavý, sdružený, obkročný rým
 - __Rytmus:__ jamb
 - __Postavy:__ 
-	- ++Vilém++
+	- <u>Vilém</u>
 		- loupežník
 		- odsozený k smrti za vraždu svého otce – svůce svojí milé
 		- nechce se mu zemřít
 		- nechce být odtrhnut od světa
-	- ++Jarmila++
+	- <u>Jarmila</u>
     	- Vilémova milá
     	- spáchá sebevraždu
-    - ++Hynek++
+    - <u>Hynek</u>
     	- lyrický subjekt
     	- vrací se jako poutník na místo děje po několika letech ve čtvrtém zpěvu
     	- obdivuje Viléma a ztotožňuje se s ním
-    - ++otec++
+    - <u>otec</u>
     	- vyhnal Viléma z domu
 - __Jazyk:__
 	- melodický, zvukomalebný -> opět připomíná hudební skladbu
@@ -51,8 +51,8 @@
 	- Český romantismus
 	- III. Fáze národního obrození
 	- Další autoři:
-		- ++Karel Jaromír Erben++ (_Kytice_)
-		- ++Josef Kajetán Tyl++ (_Fidlovačka_, _Paličova dcera_, _Strakonický dudák_, _Rozervanec_ – próza o Máchovi)
+		- <u>Karel Jaromír Erben</u> (_Kytice_)
+		- <u>Josef Kajetán Tyl</u> (_Fidlovačka_, _Paličova dcera_, _Strakonický dudák_, _Rozervanec_ – próza o Máchovi)
 		- víc realističtí:
-			- ++Božena Němcová++ (_Babička_, povídky _Divá Bára_, _Pan učitel_)
-			- ++Karel Havlíček Borovský++ (_Tyrolské elegie_, _Král Lávra_, _Křest svatého Vladimíra_)
+			- <u>Božena Němcová</u> (_Babička_, povídky _Divá Bára_, _Pan učitel_)
+			- <u>Karel Havlíček Borovský</u> (_Tyrolské elegie_, _Král Lávra_, _Křest svatého Vladimíra_)

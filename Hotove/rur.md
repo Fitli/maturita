@@ -18,25 +18,25 @@
 	- citace bible
 - __Postavy:__
 	- hodně hlavních, takže trochu kolektivní drama
-	- ++Harry Domin++
+	- <u>Harry Domin</u>
 		- hlavní
 		- majitel továrny
 		- není schopen vidět důsledky svých činů
 		- cílevědomý
 		- pozitivní ale nedomyšlená vize světa bez lidské práce
-	- ++Helena++
+	- <u>Helena</u>
 		- odkaz na Helenu Trojskou
 		- krásná
 		- nšichni jsou do ní zamilovaní
 		- neberou ji jako rovnocennou partnerku
-	- ++Alquist++
+	- <u>Alquist</u>
 		- obyčejný
 		- bavila ho práce
 		- roboti ho nechali žít, protože měli pocit, že je jim podobný
 		- měl obnovit výrobu robotů
-	- ++Nána++
+	- <u>Nána</u>
 		- jednodušší ženská
-	- ++Dr. Gall++
+	- <u>Dr. Gall</u>
 		- jméno: Gallenos -- lékař ze 4. století
 - __Kontext autorovy tvorby:__
 	- humanistická literatura
@@ -78,12 +78,12 @@
 - __Kontext české literatury:__
 	- česká meziválečná próza -- řada nových směrů, hledání nových forem, pouřívání různých funkčních stylů...
 	- humanistická próza 
-		- __++Eduard Bass++__
+		- __<u>Eduard Bass</u>__
 			- patří do *demokratického proudu*
 			- *Klapzubova jedenáctka* -- fotbalový román
 			- *Cirkus Humberto* -- životní osudy cirkusáka -- hl. postavy od dětství do stáří (Vašek)
 				- skončí v Praze, ale založí si aspoň Varieté 
-		- __++Josef Čapek++__
+		- __<u>Josef Čapek</u>__
 			- patří do *demokratického proudu*
  			- *Život hmyzu* -- s bratrem
  			- *Stín kapradiny* -- lyrizovaná próza
@@ -95,16 +95,16 @@
 				- Osvobozené divadlo
 			- surrealismus
 		- __Osvobozené divadlo__
-			- __++Jiří Voskovec++__
-			- __++Jan Werich++__
+			- __<u>Jiří Voskovec</u>__
+			- __<u>Jan Werich</u>__
 			- hry začínají vytvářet přímo v divadle
-			- __++Jaroslav Ježek++__ -- hudba
+			- __<u>Jaroslav Ježek</u>__ -- hudba
 			- _Vest pocket revue_
 			- _Caesar_ -- naráží na Mussoliniho
 			- _Golem_, _Osel a stín_, _Těžká  Barbora_
 			- forbíny -- před oponou mezi čásmi hry, hodně aktuální, dost improvizované
 		- __D34__ -- režisérské divadlo, hrálo i Čapka
 	- další prozaici tohoto období:
-		- __++Jaroslav Hašek++__  (_Osudy dobrého vojáka Švejka za světové války_)
-		- __++Ivan Olbracht++__ (_Nikola Šuhaj loupežník_, _Čtení z Bible kralické_)
-		- __++Vladislav Vančura++__ (_Rozmarné léto_, _Markéta Lazarová_)
+		- __<u>Jaroslav Hašek</u>__  (_Osudy dobrého vojáka Švejka za světové války_)
+		- __<u>Ivan Olbracht</u>__ (_Nikola Šuhaj loupežník_, _Čtení z Bible kralické_)
+		- __<u>Vladislav Vančura</u>__ (_Rozmarné léto_, _Markéta Lazarová_)

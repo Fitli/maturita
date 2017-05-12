@@ -12,43 +12,43 @@
 	- děj je chronologický
 - __Typy promluv:__ -- dialogy, monology
 - __Postavy:__
-	- ++Harpagon++
+	- <u>Harpagon</u>
 		- hlavní postava
 		- lakotný, sobecký, nezajímá se o noc jiného, než o své peníze
 		- zamiluje se do Marie
-	- ++Kleant++
+	- <u>Kleant</u>
 		- syn Harpagona
 		- mladý, smypatický, drzý
 		- miluje Marii
-	- ++Eliška++
+	- <u>Eliška</u>
 		- dcera Harpagona
 		- zamilovaná do Valeria
-	- ++Marie++
+	- <u>Marie</u>
 		- sousedka Harpagona
 		- krásná, skromná, plachá
 		- stará se o svoji nemocnou matku
 		- miluje Kleanta
-	- ++Valér++
+	- <u>Valér</u>
 		- správce Harpagonova domu
 		- miluje Elišku, kvůli ní začal pracovat u jejího otce
 		- snaží se zalíbit Harpagonovi, úlisný, přísný na své podřízené
-	- ++Anselm++
+	- <u>Anselm</u>
 		- bohatý starý muž
 		- má si vzít Elišku
 		- na konci se ukáže, že jeho pravé jméno je Tomas d'Alburci a je otcem Marie a Valéra
 		- štědrý, dobrosrdečný
-	- ++Frosina++
+	- <u>Frosina</u>
 		- intrikářka, dohazovačka
-	- ++La Flèche++
+	- <u>La Flèche</u>
 		- sluha Kleanta
-	- ++Jakub++
+	- <u>Jakub</u>
 		- Harpagonův kuchař a kočí
-	- ++šašek++
+	- <u>šašek</u>
 		- chce se Harpagonovi pomstít
-	- ++mistr Šimon++
+	- <u>mistr Šimon</u>
 		- zprostředkovatel půjčky od Harpagona pro Kleanta
-	- ++policejní komisař++ a jeho ++písař++
-	- ++paní Klaudie++, ++Brindavoine++, ++La Merluche++ -- Harpagonovi služební
+	- <u>policejní komisař<u> a jeho </u>písař</u>
+	- <u>paní Klaudie<u>, <u>Brindavoine</u>, </u>La Merluche</u> -- Harpagonovi služební
 - __Kontext autorovy tvorby:__
 	- 
 	- psal komedie
@@ -60,6 +60,6 @@
 		- _Misantrop_
 - __Světový kontext:__
 	- klasicismus
-	- ++Piere Corneille++ (drama _Cid_)
-	- ++Jean Racine++ (drama _Faidra_)
-	- ++Jean de la Fontaine++ -- bajky
+	- <u>Piere Corneille</u> (drama _Cid_)
+	- <u>Jean Racine</u> (drama _Faidra_)
+	- <u>Jean de la Fontaine</u> -- bajky

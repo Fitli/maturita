@@ -24,7 +24,7 @@
 - __Typy promluv:__ 
 	- přímá řeč, nepřímá řeč, nevlastní přímá řeč
 - __Postavy:__
-	- ++Meursault++
+	- <u>Meursault</u>
 		- bere život tak jak je
 		- sleduje věci zvenku
 		- život ovlivněn pouze náhodami
@@ -32,13 +32,13 @@
 		- nechce se přetvařovat
 		- existencionální mezník -- když vyjede na kněze
 		- pak smíření, uvědomění, že ten život byl vlastně fajn
-	- ++Marie++
-	- ++Raymond++
-	- ++++
-	- ++++
-	- ++++
-	- ++++
-	- ++++
+	- <u>Marie</u>
+	- <u>Raymond</u>
+	- <u></u>
+	- <u></u>
+	- <u></u>
+	- <u></u>
+	- <u></u>
 - __Jazyk__
 	- spisovná čeština
 	- neosobní

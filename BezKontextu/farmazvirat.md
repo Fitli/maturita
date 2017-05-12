@@ -16,44 +16,44 @@
 - __Vyprávěcí způsob:__ er-forma
 - __Typy promluv:__ přímá řeč, nepřímá řeč...
 - __Postavy:__ 
-	- ++Napoleon++
+	- <u>Napoleon</u>
 		- jeden z vůdců revoluce
 		- po vyhnání Kuliše získává moc
 		- ideály revoluze zneužívá ke svému prospěchu
 		- využil štěňata jako tajnou policii
 		- Stalin
-	- ++Major++
+	- <u>Major</u>
 		- prapůvodce myšlenek revoluce
 		- umírá
 		- Lenin/Marx
-	- ++Kuliš++
+	- <u>Kuliš</u>
 		- chytrý
 		- chce pokrok
 		- vyhnán Napoleonem, je z něj největší záporák
 		- Trockij
-	- ++Pištík++
+	- <u>Pištík</u>
 		- mluvčí
 		- nutí zvířatům myšlenky prasat
 		- propaganda
-	- ++Boxer++
+	- <u>Boxer</u>
 	    - kůň
 	    - silný, pracovitý
 	    - obdivovaný zvířaty
 	    - je hodně pro revoluci
 	    - _budu pracovat lépe a radostněji_
 	    - šel do salámu
-	- ++Molina++
+	- <u>Molina</u>
 		- klisna
 		- byla spokojená pod vládou lidí
 		- utekla
-	- ++Lupina++
+	- <u>Lupina</u>
 		- klisna
 		- ochránkyně ostatních zvířat
 		- chytrá
-	- ++Benjamín++
+	- <u>Benjamín</u>
 	    - osel
 	    - chytrý, ví, že je všechno špatně, ale nechce to řešit
-	- ++Mojžíš++
+	- <u>Mojžíš</u>
 	    - představuje víru
 	    - může si dělat co chce
 	    - neumí ho zahubit ani totalita

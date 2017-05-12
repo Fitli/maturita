@@ -13,36 +13,36 @@
 - __Vyprávěcí způsoby:__ er-forma, nezaujetý vypravěč
 - __Typy promluv:__ zejména přímá řeč, nepřímá řeč
 - __Postavy:__
-	- ++Karel Rossman++
+	- <u>Karel Rossman</u>
 		- 16letý chlapec
 		- rodiči poslán do Ameriky za to, že ho svedla služebná
 		- naivní
 		- neschopný vzepřít se tomu, co považuje za autoritu
-	- ++Edward Jakob++
+	- <u>Edward Jakob</u>
 		- Karlův Strýc
 		- přísný
 		- neosobní
 		- špatné vztahy s evropskou rodinou
-	- ++Delamarche++
+	- <u>Delamarche</u>
 		- vypočítavý
 		- zneužívající falešné přátelství
-	- ++Robinson++
+	- <u>Robinson</u>
 		- ovládaný Delamarchem
 		- strach být samostatný
-	- ++Vrchní kuchařka++
+	- <u>Vrchní kuchařka</u>
 		- starostlivá
 		- pohostinná
 		- nemá jméno -- typizovaná mateřská role
-	- ++Tereza++
+	- <u>Tereza</u>
 		- písařka vrchní kuchařky
 		- úzkostlivá
 		- osamělá
-	- ++Brunelda++
+	- <u>Brunelda</u>
 		- zpěvačka, se kterou začne žít Delamarche
 		- obézní
 		- náladová
 		- naprosto absurdní postava
-	- ++Student++
+	- <u>Student</u>
 		- Bruneldin soused
 		- vzdal hledání šťastného života
 - __Kontext autorovy tvorby:__
@@ -79,9 +79,9 @@
 		- detektivky, sci-fi, fantasy, antiutopie (distopie) 
 	- Kafka pražský Němec
 	- další pražští Němci:
-		- ++Gustav Meyring++ (_Golem_)
-		- ++Franz Werfel++ (_Verdi, Smrt maloměšťáka_)
-		- ++Max Brod++
+		- <u>Gustav Meyring</u> (_Golem_)
+		- <u>Franz Werfel</u> (_Verdi, Smrt maloměšťáka_)
+		- <u>Max Brod</u>
 			- propagoval českou literaturu v té svojí německé
 			- zdramatizoval Haška do Němčiny
 			- měl po Kafkově smrti spálit jeho dílo, ale radši ho vydal
