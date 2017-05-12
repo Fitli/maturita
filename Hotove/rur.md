@@ -1,0 +1,110 @@
+#Karel Čapek: R.U.R
+
+- __Druh:__ drama
+- __Žánr:__ sci-fi antiutopická činohra/tragédie (je tam naděje, takže je to málo tragédie)
+- __Téma:__ morálka x pokrok
+- __Motivy:__ vnucování názorů, biblické motivy, oddanost, lidskost, práce
+- __Časoprostor:__ 
+	- Rozzumův ostrov, budoucnost
+- __Kompozice:__
+	- předehra + tři dějství, dějství 10 let po předehře
+- __Vypravěč__
+	- podrobné scénické poznámky 
+- __Vyprávěcí způsobý__
+	- ich-forma, er-forma
+	- dialogy, monology
+- __Typy promluv:__
+	- přímá řeč
+	- citace bible
+- __Postavy:__
+	- hodně hlavních, takže trochu kolektivní drama
+	- ++Harry Domin++
+		- hlavní
+		- majitel továrny
+		- není schopen vidět důsledky svých činů
+		- cílevědomý
+		- pozitivní ale nedomyšlená vize světa bez lidské práce
+	- ++Helena++
+		- odkaz na Helenu Trojskou
+		- krásná
+		- nšichni jsou do ní zamilovaní
+		- neberou ji jako rovnocennou partnerku
+	- ++Alquist++
+		- obyčejný
+		- bavila ho práce
+		- roboti ho nechali žít, protože měli pocit, že je jim podobný
+		- měl obnovit výrobu robotů
+	- ++Nána++
+		- jednodušší ženská
+	- ++Dr. Gall++
+		- jméno: Gallenos -- lékař ze 4. století
+- __Kontext autorovy tvorby:__
+	- humanistická literatura
+	- dramaturg divadla na Vinohradech
+	- dramatik
+	- pacifismus
+	- tolerantní
+	- pragmatismus
+		- zabývá se cílem jednání, jsou různé možné prostředky
+		- pravda je relativní
+		- různé úhly pohledu
+	- povídky
+		- _Trapné povídky_
+		- _Boží muka_
+		- _Povídky z jedné a druhé kapsy_
+			- dobré charakteristiky
+			- civilnost
+	- hry
+		- _Věc Makrupolos_
+			- nesmrtelnost
+			- žena, která se narodila v době Rudolfa II., její otec vymyslel elixír mládí, ona je nesmrtelná
+			- už ji ten život neba, všichni kolem ní umírají
+		- _Bílá nemoc_
+		- _Matka_
+	- romány
+		- *Krakatit* -- snaha ovládnout svět pomocí bomby + láska
+		- *Továrna na absolutno* -- román-fejeton
+			- utopie, varování (absolutno se uvolňuje při uvolňování atomové energie)
+		- *Hordubal, Povětroň, Obyčejný život* -- pragmatická trilogie
+		- _Hovory s TGM_
+		- _Válka s mloky_
+	- cestopisy
+		- _Italské listy_
+		- _Holandské listy_
+		- _Výlety do Španěl_
+	- pohádky
+		- _Devatero pohádek_
+		- _Dášenka, čili život štěněte_
+- __Kontext české literatury:__
+	- česká meziválečná próza -- řada nových směrů, hledání nových forem, pouřívání různých funkčních stylů...
+	- humanistická próza 
+		- __++Eduard Bass++__
+			- patří do *demokratického proudu*
+			- *Klapzubova jedenáctka* -- fotbalový román
+			- *Cirkus Humberto* -- životní osudy cirkusáka -- hl. postavy od dětství do stáří (Vašek)
+				- skončí v Praze, ale založí si aspoň Varieté 
+		- __++Josef Čapek++__
+			- patří do *demokratického proudu*
+ 			- *Život hmyzu* -- s bratrem
+ 			- *Stín kapradiny* -- lyrizovaná próza
+			- popisování přírody -- na pozadí hrozná vražda
+	- meziválečné drama
+		- divadla se snaží působit civilnějším dojmem
+		- umělecké směry: 
+			- poetismus: uvolněná atmosféra, dějová linie, cirkusové prvky, scénické básně, pásma komediálních výjevů
+				- Osvobozené divadlo
+			- surrealismus
+		- __Osvobozené divadlo__
+			- __++Jiří Voskovec++__
+			- __++Jan Werich++__
+			- hry začínají vytvářet přímo v divadle
+			- __++Jaroslav Ježek++__ -- hudba
+			- _Vest pocket revue_
+			- _Caesar_ -- naráží na Mussoliniho
+			- _Golem_, _Osel a stín_, _Těžká  Barbora_
+			- forbíny -- před oponou mezi čásmi hry, hodně aktuální, dost improvizované
+		- __D34__ -- režisérské divadlo, hrálo i Čapka
+	- další prozaici tohoto období:
+		- __++Jaroslav Hašek++__  (_Osudy dobrého vojáka Švejka za světové války_)
+		- __++Ivan Olbracht++__ (_Nikola Šuhaj loupežník_, _Čtení z Bible kralické_)
+		- __++Vladislav Vančura++__ (_Rozmarné léto_, _Markéta Lazarová_)

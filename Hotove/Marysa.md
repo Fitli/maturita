@@ -1,0 +1,67 @@
+# Vilém a Alois Mrštíkové: Maryša
+- __Druh:__ drama
+- __Žánr:__ sociální tragédie
+- __Téma:__ Problémy domluvených sňatků
+- __Motivy:__ lidové zvyky, lidské vlastnosti, hodnoty
+- __Časoprostor:__
+	- vesnice na Moravě
+	- současnost autorů -- konec 19. století
+	- 2./3. dějství skok o dva roky
+- __Kompozice:__
+	- 5 jednání, ty děleny na výstupy
+	- expozice, kolize, krize, peripetie, katastrofa
+	- děj je chronologický
+	- třetí až páté jednání o dva roky později než první dvě
+	- hra je doplněna scénickými poznámkami
+- __Typy promluv:__ přímá řeč, monology
+- __Postavy:__ 
+	- ++Maryša++
+		- mladá dívka
+		- krásná
+		- zarputilá
+		- odmítá domluvený sňatek, ale nakonec je do něj dotlačena
+	- ++Francek++
+		- milý Maryši
+		- chudý
+		- odvážný, tvrdohlavý, věrný, impulzivní
+	- ++Vávra++
+		- bohatý mlynář
+		- vdovec, poté Maryšin manžel
+		- skolny k násilí a alkoholismu
+	- ++Lízal++
+		- Maryšin otec
+		- bohatý sedlák, dobrý hospodář
+		- přísný
+		- hledí na peníze
+		- později lítostivý
+	- ++Lízalka++
+		- Maryšina matka
+		- souhlasí se svým manželem
+		- nepřipustila si chybu
+	- ++Stařenka++
+		- Maryšina babička
+		- jako jediná Maryšu podporuje
+- __Jazyk:__
+	- silné moravské nářečí
+	- kombinace víc nářečí – nekonkrétní vesnice
+- __Kontext autorovy tvorby:__
+	- autoři byli bratři
+	- žili na Moravě ve druhé polovině 19. století
+	- Vilém studoval na našem gymnáziu
+	- další společná díla
+		- _Rok na vsi_
+		- _Bavlníkova žena_
+		- _další Vilémova díla_
+		- _Santa Lucia_ – naturalistický román, narážky na Jarošku
+		- _Pohádka máje_ – lyrizovaný román
+	- další Aloisova díla
+		- _Dobré duše_
+		- _Obrazy z Tater_
+- __Kontext české/světové literatury:__
+	- Český naturalismus – člověk vytvořený geny a prostředím a nic s tím nenadělá
+		- ++Josef Karel Šlejkar++ (_Kuře melancholik_)
+		- ++Karel Matěj Čapek-Chod++ (_Kašpar Lén Mstitel_, _Jindrové_)
+	- realistické divadlo
+		- ++Ladislav Stroupežnický++ – _Naši Furianti_
+		- ++Gabriela Preisová++ – _Gazdina roba_ (hodně podobná Mrštíkům – témata, nářečí)
+	- v jejich době vznik Národního divadla

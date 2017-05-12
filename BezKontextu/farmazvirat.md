@@ -1,0 +1,67 @@
+# Farma zvířat
+- __Druh:__ epika
+- __Žánr:__ novela (prasata splynula s lidmi) s prvky bajky
+- __Téma:__ nástup totalitního režimu s dobrou myšlenkou, která se změní ve špatnou
+- __Motivy:__ přepisování sedmera, mlýn, alkohol
+- __Časoprostor:__
+	- farma v Anglii
+	- Panská farma/ Farma zvířat/ Panská farma
+	- autorova současnost
+- __Kompozice:__
+	- chronologická
+	- 10 kapitol, v každé nějaká důležitá událost
+	- falešné retrospektivy -- manipulace se vzpomínkami
+	- včleněno 7 přikázání, Zvířata Anglie
+- __Vypravěč:__ vnější
+- __Vyprávěcí způsob:__ er-forma
+- __Typy promluv:__ přímá řeč, nepřímá řeč...
+- __Postavy:__ 
+	- ++Napoleon++
+		- jeden z vůdců revoluce
+		- po vyhnání Kuliše získává moc
+		- ideály revoluze zneužívá ke svému prospěchu
+		- využil štěňata jako tajnou policii
+		- Stalin
+	- ++Major++
+		- prapůvodce myšlenek revoluce
+		- umírá
+		- Lenin/Marx
+	- ++Kuliš++
+		- chytrý
+		- chce pokrok
+		- vyhnán Napoleonem, je z něj největší záporák
+		- Trockij
+	- ++Pištík++
+		- mluvčí
+		- nutí zvířatům myšlenky prasat
+		- propaganda
+	- ++Boxer++
+	    - kůň
+	    - silný, pracovitý
+	    - obdivovaný zvířaty
+	    - je hodně pro revoluci
+	    - _budu pracovat lépe a radostněji_
+	    - šel do salámu
+	- ++Molina++
+		- klisna
+		- byla spokojená pod vládou lidí
+		- utekla
+	- ++Lupina++
+		- klisna
+		- ochránkyně ostatních zvířat
+		- chytrá
+	- ++Benjamín++
+	    - osel
+	    - chytrý, ví, že je všechno špatně, ale nechce to řešit
+	- ++Mojžíš++
+	    - představuje víru
+	    - může si dělat co chce
+	    - neumí ho zahubit ani totalita
+	- ovce
+	    - tupý dav
+	    - bečí, co se jim řekne
+- __Jazyk:__
+	- jednoduchý, spisovný
+- __Kontext autorovy tvorby:__
+
+- __Kontext světové literatury:__

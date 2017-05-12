@@ -1,0 +1,69 @@
+#poezie
+- úvod
+- proletářská poezie, sociální balada
+	- ++__Wolker__++
+		- _Host do domu_
+		- _Těžká hodina_
+		- _Svatý kopeček_
+	- ++__Josef Hora__++
+		- _Pracující den_
+		- _Srdce a vřava světa_
+		- _Jan houslista_
+	- ++__Seifert__++
+		- _Město v slzách_
+		- _Samá láska_
+- poetismus
+	- ++__Teige__++
+	- ++__Nezval__++
+		- _Podivuhodný kouzelník_
+		- _Pantomima_
+		- _Básně noci_
+	- ++__Seifert__++
+		- _Na vnách TSF_
+- surrealismus
+	- ++__Nezval__++
+		- _Praha s prsty deště_
+		- _Žena v množném čísle_
+		- _Absolutní hrobař_
+- ++__Nezval__++
+	- _Matka naděje_
+	- _Pět minut za městem_
+	- _Manon Lescaut_ (drama)
+- komunismus
+	- ++__Nezval__++
+		- _Stalin_
+		- _Zpěv míru_
+- ++__Seifert__++
+	- 30\. léta
+		- _8 dní_
+		- _Zhasněte světla_
+		- _Vějíř Boženy Němcové_
+		- _Kamenný most_
+	- _Maminka_
+	- _Píseň o Viktorce_
+		- špatně přijata kritikou, málo radostná a budovatelská
+	- _Heliova kometa_
+		- volný verš
+	- 70\. -- 80. léta
+		- _Všechny krásy světa_ -- upravena pro vydání v československu
+- Spirituální a katolický proud
+	- ++__Jakub Deml__++
+		- _Hrad smrti_
+		- _Tanec smrti_
+		- _Miriam_ -- různé podoby ženy
+	- ++__Jan Zahradníček__++
+		- _Korouhve_ -- okupace, obavy o osud země, výzva světcům, aby nás chránili
+		- 13 let v komunistickém vězení
+- ++__František Halas__++
+	- úvahový, expresivní, smysl existence
+	- kontrast, metafory, kakofonie
+	- poetismus
+		- _Sépie_
+	- skepse, desiluze, život a smrt
+		- _Kohout plaší smrt_
+	- Staré ženy -- proměny těla a duše
+	- okupace
+		- _Torzo naděje_ -- povzbuzení národa
+		- _Naše paní Božena Němcová_
+- ++__Vladimír Holan__++
+	- _Terezka Planetová_ -- poéma -- epičnost

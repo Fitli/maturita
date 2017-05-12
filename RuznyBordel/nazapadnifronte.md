@@ -1,0 +1,83 @@
+#Erich Maria Remarque: Na západní frontě klid
+
+- __Druh:__ epika
+- __Žánr:__ román
+- __Téma:__ osudy vojáků, (ne)smysl války
+- __Motivy:__ smrt, přátelství
+- __Časoprostor:__
+	- 1\. světová válka
+	- západní fronta -- Francie, Německo
+- __Kompozice:__
+	- 12 kapitol
+	- chronologická, drobné rotrospektivy
+- __Vyprávěcí způsoby:__ 
+	- ich forma
+	- vypravěč hlavní postavou
+	- poslední kapitola po Pavlově smrti je v er-formě
+- __Typy promluv:__ zejména přímá řeč, nepřímá řeč, nevlastní přímá řeč
+- __Postavy:__
+    - ++__Pavel Bäumer__++
+        - vypravěč a hlavní postava
+        - pochází z velmi chudé rodiny
+        - mladý student, nezkušený
+        - vlastenecky nadšený - dobrovolně vstupuje do armády
+        - autor do něj promítá sám sebe a své zážitky
+    - __++Stanislav Katczinsky++__ 
+        - nejstarší, hlava jejich skupiny, Pavlův nejlepší přítel
+    - __++Himmelstoss++__ 
+        - vedoucí výcviku, šikanuje své svěřené, ti mu to vrátí, a nekonec zi začne uvědomovat, že válka není žádné potěšení
+    - ++__Tjaden, Kropp, Müller, Leer, Haie__++ 
+        - Pavlovi spolužáci
+        - různé přístupy k životu a k válce
+    - __++Kantorek++__
+        - jejich třídní profesor
+        - donutí studenty jít do války
+        - pak se tam dostane i on sám
+- __Jazyk:__
+	- spisovný
+	- v promluvách postav hovorové výrazy, někdy i vulgarismy
+- __Kontext autorovy tvorby:__
+	- Němec
+	- velmi ovlivněn válkou
+	- utekl z Německa před fašismem
+	- _Na západní frontě klid_
+	- _Tři kamarádi_
+	- _Černý obelisk_
+	- _Miluj bližního svého_
+	- _Nebe nezná vyvolených_ -- po 2. sv. válce
+- __Světový kontext:__
+	- ztracená generace -- mladí vojáci, kteří se po válce nebyli schopni zařadit do normálního života
+	- __++Romain Rolland++__
+        - profesor dějin hudby
+        - próza a drama
+        - životopisy:
+            - _Život Beethovenův_
+            - _Život Michelangelův_
+            - _Život Tolstého_
+            - _Mahátmá Gándhí_
+        - _Petr a Lucie_
+    - __++Henri Barbusse++__
+        - _Oheň_ -- román
+            - srovnáván s Na západní frontě klid
+            - více hlavních postav
+            - i naturalismus, lyrika
+    - __++Ernest Hemingway++__
+        - 1899 – 1961
+        - jezdil se sanitkou na jižní frontě 1. světové války
+        - bojoval i ve 2. světové válce
+        - líbilo se mu Španělsko
+        - byl lovec
+        - spáchal sebevraždu stejnou puškou, jako jeho otec
+        - čtyřikrát ženatý
+        - ve své tvorbě čerpá z vlastních zážitků
+        - metoda špičky ledovce – z příbehu je odkryt jen kousek, velký prostor pro čtenářovu fantazii
+        - román _Sbohem, armádo_
+        - román _Fiesta_ (někdy překládáno jako I slunce vychází) – ztracená generace
+        - novela _Stařec a moře_
+        - román _Komu zvoní hrana_ – španělská občanská válka, důraz na kolektiv
+            - aluze na ++Johna Donna++ (renesance)
+    - __++Michail Šolochov++__
+        - ovlivněn oblastí okolo Donu
+        - _Donské povídky_
+        - _Tichý Don_ -- románová epopej = román řeka
+        - _Osud člověka_ -- novela o 2. světové válce

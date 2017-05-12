@@ -1,0 +1,114 @@
+#Anarchobohéma (anarchističtí budiči)
+- konec 19. století
+- mladší generace
+- nespokojení se společenskou situací
+- PUNK!
+- proti státu
+- společné s dekadencí, ale místo skepse, kontrovezních témat, úniků do jiných světů vyjadřují touhu po řešení - odboji
+- často i anarchistické činy
+- sblížení s dělnickým hnutím
+- hnutí s Omladinou
+	- ++S. K. Neumann++
+- antimilitarsimus
+	- proti řešení konfliktů na státní úrovni pomocí zbraní
+- civilismus
+	- propagace civilizace a jejího rozvoje
+	- obdivuje vědu, techniku, usnadňování života
+- vitalismus
+	- oslava života, člověka, akce, radosti, přírody
+- literatura
+	- sepjetí se životem, čtivá pro všechny
+	- lidové prostředky
+	- prostá pojmenování
+	- pravidelný verš
+- __++S. K. Neumann++__
+	- časopis Nový kult
+	- shlukoval kolem sebe další anarchisty
+- __++Viktor Dyk ++__
+	- básník, prozaik, dramatik
+	- poezie -- ironie
+		- _Satiry a sarkasmy_ -- satiry na český společenský život
+		- aforismy -- krátká vtipná průpovídka, výrok, často ironicky podbarvený
+		- _Milá sedmi loupežníků_ -- balada
+		- _Devátá vlna_ -- sbírka, vyznívá jako předzvěst jeho smrti
+		- válečná tetralogie
+			- ukázka _Země mluví_
+				- personifikace
+	- próza -- romantika
+		- Krysař
+	- drama
+		- Zmoudření Dona Quijota
+- __++Fráňa Šrámek++__
+	- _Stříbrný vítr_ 
+		- lyrizovaná próza -- impresionistický román
+		- hlavní postava Jan Ratkin, divně namíchaný geny
+		- symbol snahy o dosažení touhy
+	- _Tělo_
+		- vitalistický román
+	- próza
+		- _Splav_ -- impresionismus
+		- _Modrý a rudý_ -- protiválečná, symbolismus
+	- dramata
+		- _Měsíc nad řekou_
+			- dospělost bývalých spolužáků
+		- _Léto_
+- __++Karel Toman++__
+	- bohémský život
+	- redaktor Národních listů
+	- hodně cestoval
+	- sbírka _Měsíce_
+- __++Stanislav Kostka Neumann++__
+	- za začátky dekadence, symbolismus, satanismus, začíná se kamarádit s anarchisty
+		- _Satanova sláva mezi námi_
+			- symbol vzdoru, oslava živočišna
+		- _Kniha mládí a vzdoru_
+			- sbírka
+	- později naturismus -- oslava přírody
+		- _Kniha lesů, vod a strání_
+			- Bílovice
+			- některé básně připomínají modlitby
+	- civilismus -- oslava pokroku
+		- _Nové zpěvy_
+	- _Proletářská poezie_
+		- _Rudé zpěvy_
+	- za okupace psal do šuplíku
+		- _Zamořená léta_
+		- _Bezedný rok_
+- __++Petr Bezruč++__
+	- pseudonym
+	- filolog
+	- zkoumal Rukopisy
+	- Jaroška
+	- _Slezské písně_
+		- anonymně v časopise Čas
+		- knižně pak vydaj ++Jan Herben++ -- redaktor toho časopisu jako _Slezské číslo_
+		- později vycházely s úpravami k horšímu
+		- nazývá se bardem utlačovaného slezského národa
+		- lidové mýty, křesťanské prvky
+		- místopis
+		- okruhy:
+			- národnoustní útisk Slezanů
+			- intimní lyrika
+			- místopis
+			- sociální balady
+			- vzdálenost Prahy
+		- autorství
+			- prý není výhradním autorem
+			- teorie, že hlavním autorem Ondřej Petr
+
+- __++Jakub Deml++__ 
+	- ne anarchista
+	- spirituální a katolický proud
+	- kritický k círvi
+	- odmítá celibát
+	- hodně otevřeně kritický, sral lidi
+	- prózy s lyricovanými prvky
+		- _Hrad smrti_
+		- _Tanec smrti_
+		- pesimistické
+	- _Moji přátelé_ -- kytičky
+	- _Miriam_ -- symbolika vztahu k různým ženám
+	- _Zapomenuté světlo_
+		- povídka s úvahami
+		- farář stojí u lože umírající ženy, víří mu hlavou myšlenky
+	- _Šlépěje_ -- deníkové zápisky

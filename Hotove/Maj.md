@@ -1,0 +1,58 @@
+# Karel Hynek Mácha: Máj
+- __Druh:__ lyricko-epické
+- __Žánr:__ básnická skladba
+- __Téma:__ smrt, láska, příroda, vlastenectví
+- __Motivy:__ máj, voda, příroda, duchové
+- __Časoprostor:__
+	- český venkov u hradu Bezděz
+	- v květnu
+	- doba autorova života -- 1. polovina 19. století
+	- čtvrtý zpěv o několik let později než zbytek
+- __Kompozice:__
+	- chronologický děj
+	- 4 zpěvy a 2 intermezza -- připomíná hudební skladbu
+	- v rámci nich místy členěno na odstavce
+	- Před začátkem básně: Vilém zavraždil svůdce Jarmily, který byl ale jeho otcem, kterého neznal, je ta to odsouzen k smrti
+	- _1. zpěv:_ Jarmila čeká na Viléma, místo něj ale přijíždí jeho druh a říká že Vilém je zajat a odsouzen k smrti, ze zoufalství skáče o jezera
+	- _2. zpěv:_ Vilém v tomtéž čase ve vězení, zamýšlí se nad svým životem
+	- _1. intermezzo:_ zpěv duchů, přírodní prvky říkají, co zastanou na pohřbu, duchové se těší, že je Vilém vystřídá ve stráži na pohřbu
+	- _3. zpěv:_ Vilémova poprava
+	- _2. intermezzo:_ loupežníci a příroda truchlí pro Viléma
+	- _4. zpěv:_ Hynek se vrací na místo příběhu
+- __Lyrický subjekt:__ nezaujatý, ve čtvrtém zpěvu se ztotožňuje s příběhem
+- __Vyprávěcí způsob:__ er-forma, 4. zpěv ich-forma
+- __Typy promluv:__ monology, dialogy, všechny možný řeči
+- __Veršová výstavba:__ vázaný verš, střídavý, sdružený, obkročný rým
+- __Rytmus:__ jamb
+- __Postavy:__ 
+	- ++Vilém++
+		- loupežník
+		- odsozený k smrti za vraždu svého otce – svůce svojí milé
+		- nechce se mu zemřít
+		- nechce být odtrhnut od světa
+	- ++Jarmila++
+    	- Vilémova milá
+    	- spáchá sebevraždu
+    - ++Hynek++
+    	- lyrický subjekt
+    	- vrací se jako poutník na místo děje po několika letech ve čtvrtém zpěvu
+    	- obdivuje Viléma a ztotožňuje se s ním
+    - ++otec++
+    	- vyhnal Viléma z domu
+- __Jazyk:__
+	- melodický, zvukomalebný -> opět připomíná hudební skladbu
+	- asi milion básnických prostředků
+- __Kontext autorovy tvorby:__
+	- nejslavnější dílo
+	- za jeho života neoceněno
+	- sbírka povídek _Obrazy ze života mého_ (povídky _Večer na Bezdězu_, _Márinka_)
+	- romány _Cikáni_, _Kat_, _Křivoklát_
+- __Kontext české/světové literatury:__
+	- Český romantismus
+	- III. Fáze národního obrození
+	- Další autoři:
+		- ++Karel Jaromír Erben++ (_Kytice_)
+		- ++Josef Kajetán Tyl++ (_Fidlovačka_, _Paličova dcera_, _Strakonický dudák_, _Rozervanec_ – próza o Máchovi)
+		- víc realističtí:
+			- ++Božena Němcová++ (_Babička_, povídky _Divá Bára_, _Pan učitel_)
+			- ++Karel Havlíček Borovský++ (_Tyrolské elegie_, _Král Lávra_, _Křest svatého Vladimíra_)

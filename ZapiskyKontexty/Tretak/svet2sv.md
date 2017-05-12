@@ -1,0 +1,206 @@
+# Poezie ve světové lit. do 2. světové války
+- po prázdninách _Pásmo_
+- zrychlení životního tempa
+- svět není dokonale poznatelný
+- vznik směrů, které si nekladou za cíl celistvé zobrazení, hodně experimentální, ne pro všechny
+- pestrost
+- chaos
+- avantgerní, modernistická díla -- nejvíc se vymykají
+
+###Umělecké směry
+- __fauvismus__ -- dravost, velké barevné plochy, barvy neodpovídají realitě, kontrasty, zjednodušené tvary
+	- malíř ++Henri Matisse++
+- __expresionismus__ -- vyjádření výrazu, většinou negativního
+	- strach, úzkost, smutek
+	- ++Edward Munch++ -- výkřik
+	- v literatuře: deprese, psychologické procesy probíhající v hlavě, nejistota člověka v chaotickém světě
+	- postavy nerozlišují realitu x sen, volně řazené výjevy, hyperbola
+	- motivy šílenství, úzkosti, strachu
+- __kubismus__ -- rozebrání předmětu na součástky, hrany, úhly, poskládat zpátky do jednoho pohledu
+	- především ve výtvarném umění
+	- ++Pablo Picasso++, ++Georges Braque++
+	- v literatuře rozebírání, různé úhly, mozaikovitý popis
+	- ruší hranice mezi poezií a prózou
+	- hrají si s grafikou -- __++Apollinaire++__ -- Kaligramy
+- __futurismus__
+	- nahlížení na budoucnost, vývoj, nezájem o minulost
+	- 1909 _Manifest futurismu_ -- __++Filippo Tommaso Marinetti++__
+		- provokativní
+		- hyperbola
+		- vedl k radikalismu
+		- používali fašisté
+		- vyzývání k válce
+		- proti právům žen
+    - odmítají tradičně zažité hodnoty
+    - ruch velkoměsta, letadla, auta, stroje, rychlost, technika
+    - umění odrazem vyspělé technické civilizace
+- __dadaismus__
+	- umělcem každý, kdo je schopen popustit uzdu fantazii
+	- náhoda jako umělecký princip, umění z čehokoliv
+	- vznik jako protipól k chaotické válce
+	- ++__Tristan Tzara__++ -- Rumun ve Francii, stříhal noviny a lepil je
+- __Surrealismus__
+	- opak reality
+	- "román je přežitý" -> metoda automatického psaní -- funguje podvědomí
+	- ++André Breton++, ++Louis Aragon++, ++Salvador Dalí++
+	- ++Luis Buňuel++ -- režisér, Andaluzský pes
+- __civilismus__ -- civilizace
+- __vitalismus__ -- život
+- __naturismus__
+- __unanimismus__ -- všude jednotný duch
+- __pragmatismus__ -- myšlení, poznání, učení má směřovat k praktickému jednání, hodně individuální
+- __marxismus__ -- proti kapitalistické společnosti, třídní boj, soustředí se na ekonomickou stránku věci
+- __secese__
+	- zdobné
+	- florální a přírodní motivy
+	- cíl poukázat na krásu přírody, protiváha k vědě a technice
+	- snaha kultivovat prostředí
+	- celkový životní styl
+- __akméismus__
+	- ruská obdoba neoklasicismu
+	- řád a pořádek
+	- jednota, kázeň, preciznost, logika
+	- intelekt, ne city
+- __imaginismus__
+	- obrazná vyjádření
+	- lidové tradice
+	- víra
+
+###Autoři
+- __++Filippe Tommaso Marinetti++__
+	- _Manifest futurismu_
+	- sbírka _Osvobozená slova_ -- osvobození z formy, bez sloves v určitém tvaru
+- __++Vladimir Majakovskij++__
+	- Rusko
+	- futurismus -- ruský nesouvisí s Italským
+	- manifesty _Zdechlá luna_, _Políček veřejnému vkusu_
+		- útočí na akméismus a další staré směry
+		- proti uznávaným autorům -- Puškin, Dostojevskij
+	- zpočátku podporoval bolševickou revoluci
+	- ironie, sarkasmus, egoismus, neologismy, metafory, hyperboly
+	- psal hlavně poémy
+	- spáchal sebevraždu
+	- _Oblak v kalhotách_
+		- předvídá revoluci
+	- _Mystérie -- buffa_ 
+		- odkazuje k buffonádě 'divadlo na satiře a nadsázce
+		- reaguje na biblické motivy potopy -- 7 párů čistých a 7 nečistých přežije -> třídní boj
+	- oslavná poéma o Leninovi
+- __++Sergej Jesenin++__
+	- znali se s Majakovským
+	- mezi tradičním a moderním uměním
+	- z venkova
+	- inklinuje k imaginismu
+	- prokoukl bolševiky, nedokázal se s tím smířit -> změna stylu k cynismu, ironii, satiře
+	- póza chuligána, bohéma, provokace
+	- _Anna Sněginová_ -- poéma
+		- venkovské prostředí
+		- občanská válka v Rusku
+		- láska x válka
+	- _Černý muž_ -- poéma
+		- pesimistická vize budoucnosti
+	- sbírka _Moskevské hospody_
+	- _Chuligánova zpověď_
+	- _Verše skandalistovy_
+- __++Guillarme Apollinaire++__
+	- psal poezii, romány a dramata
+	- _Zahnívající kouzelník_ -- román
+		- inspiroval Nezvala
+	- _Kacíř a spol_ -- soubor povídek
+	- _Alkoholy_ -- sbírka básní, patří tam _Pásmo_
+	- _Kaligramy_
+	- _Prsy Tiréziovy_ -- avantgardní (absurdní) drama
+		- diskriminace žen
+	- jeho díla překládal Karel Čapek
+- __++Christian Morgenstern++__
+	- Němec
+	- předchůdce dadaismu a surrealismu
+	- hravost poezie
+	- _Vzduch_ -- propadne se v ledu, myslí na ženu
+	- _Noční rybí zpěv_ -- kaligram
+	- _Palmstrom_ -- nechce smrkat do pěkného kapesníku
+	- _Koule_
+	- nonsensová poezie
+	- _Šibeniční písně_ -- básnická sbírka
+		- groteskní verše
+		- slovní hříčky
+		- grafické zpracování
+		- hrátky se zvukem
+		- nesmyslná slova, aby tam seděla; eufonie, onomatopoie, deformování slov
+
+####Angloamerická moderna
+- podobný básnický styl
+- neformální hlavou __++Ezra Pound++__ -- američan v Evropě
+	- organizuje setkání
+	- pomáhá začínajícím autorům
+	- antisemita -- sympatizoval s Mussolinim, zapojil se do vysílání proti Rooseveltovi
+	- měl být souzen za velezradu, ale byl prohlášen za nesvéprávného a skončil v blázinci
+	- _Zpěvy (Cantos)_ -- 800 stran, nedokončené, dějiny světa a USA
+- __imagismus__ -- snaho o co nejpřesnější a úsporný obraz
+	- vše podřízeno výslednému obrazu, bez metafor
+	- skrytý smysl
+	- volný verš
+- __vorticismus__ -- dodat dynamiku
+	- zmatek, chaos
+	- výr myšlenek
+- __++Robinson Jeffers++__
+	- žil v souladu s přírodou
+	- poémy s rozměry tragédie
+	- _Caudor_ -- trochu jako Faidra -- sex s nevlastním synem
+	- _Hřbec Grošák_
+	- _Pastýřka putující k dubnu_
+	- _Mara_
+- __++Jacques Prévert++__
+	- _Slova_ -- sbírka básní
+		- vrací do poezie všední každodennosti
+		- růnorodost témat
+		- často volný verš
+		- odpor vůči zaběhnuté měšťáceké společnosti
+
+#Próza a drama
+- silný odraz 1 světové války
+- ztracená generace -- mladí vojáci, kteří se po válce nebyli schopni zařadit do normálního života
+- nejvýraznější v USA, ale i jinde
+- __++Romain Rolland++__
+	- profesor dějin hudby
+	- próza a drama
+	- životopisy:
+		- _Život Beethovenův_
+		- _Život Michelangelův_
+		- _Život Tolstého_
+		- _Mahátmá Gándhí_
+	- _Petr a Lucie_
+- __++Erich Maria Remarque++__
+	- Němec
+	- velmi ovlivněn válkou
+	- utekl z Německa před fašismem
+	- _Na západní frontě klid_
+	- _Tři kamarádi_
+	- _Černý obelisk_
+	- _Miluj bližního svého_
+	- _Nebe nezná vyvolených_ -- po 2. sv. válce
+- __++Henri Barbusse++__
+	- _Oheň_ -- román
+		- srovnáván s Na západní frontě klid
+		- více hlavních postav
+		- i naturalismus, lyrika
+- __++Ernest Hemingway++__
+	- 1899 – 1961
+	- jezdil se sanitkou na jižní frontě 1. světové války
+	- bojoval i ve 2. světové válce
+	- líbilo se mu Španělsko
+	- byl lovec
+	- spáchal sebevraždu stejnou puškou, jako jeho otec
+	- čtyřikrát ženatý
+	- ve své tvorbě čerpá z vlastních zážitků
+	- metoda špičky ledovce – z příbehu je odkryt jen kousek, velký prostor pro čtenářovu fantazii
+	- román _Sbohem, armádo_
+	- román _Fiesta_ (někdy překládáno jako I slunce vychází) – ztracená generace
+	- novela _Stařec a moře_
+	- román _Komu zvoní hrana_ – španělská občanská válka, důraz na kolektiv
+		- aluze na ++Johna Donna++ (renesance)
+- __++Michail Šolochov++__
+	- ovlivněn oblastí okolo Donu
+	- _Donské povídky_
+	- _Tichý Don_ -- románová epopej = román řeka
+	- _Osud člověka_ -- novela o 2. světové válce

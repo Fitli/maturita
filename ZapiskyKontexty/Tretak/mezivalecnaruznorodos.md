@@ -1,0 +1,352 @@
+#Žánrová a tematická rozrůzněnost meziválečné literatury
+
+##Próza
+- znaky prózy
+	- uvolňování dějové linie
+	- subjektivizace textů
+	- posílení lyrických pasáží
+	- deníky
+	- reportážní prvky
+	- plastické zachycení z různých úhlů pohledu
+	- složitá časová kompozice
+	- proud vědomí (větné ekvivalenty, asociace, bez interpunkce, odbočky...)
+	- absurdní literatura
+	- detektivky, sci-fi, fantasy, antiutopie (distopie) 
+
+###USA
+- ++__Francis Scott Fitzgerald__++
+	- _Velký Gatsby_
+		- prázdnota života bohatých
+		- touha po lásce
+	- _Něžná je noc_
+		- vlastní zážitky autora
+		- o psychicky narušené ženě
+	- _Povídky jazzového věku_
+- ++__William Faulkner__++
+	- soužití černých a bílých
+	- naturalismus, moderna Dostojevskij
+	- Nobelova cena
+	- retrospektiva, časové skoky, skládání ze střípků
+	- vyžaduje vnímavého čtenáře
+	- některé postavy přecházejí do jiných děl
+	- romány, povídky
+	- _Hluk a vřava_
+		- víc vypravěčských rovin
+		- proud vědomí
+	- _Když jsem umírala_
+		- 59 vnitřních monologů černé ženy, která umírá a chce umřít na nějakým svým místě
+		- vzpomíná na svůj život
+	- _Svatyně_
+		- antihrdina
+	- _Absolone, Absolone_
+		- rodinné drama o plantážnické rodině
+	- čítanka 116 -- _Jdi tam, Mojžíši_
+		- zaprodal mého benjamína do otroctví -- aluze na Bibli
+- __++John Steinbeck++__
+	- sociální problémy
+	- hospodářská krize
+	- nositel Nobelovy ceny
+	- _Hrozny hněvu_
+		- román
+		- Oklahomští bezzemci putují do Kalifornie za prací
+		- není to tam o nic lepší než doma
+		- střídání děje a lyrických kapitol, myšlenkových úvah
+		- nespisovně mluvící postavy
+	- _Na východ od ráje_
+	- _Na plechárně_
+	- _Sladký čtvrtek_
+	- _O myších a lidech_ -- novela
+
+###VB
+- __++John Galswothy++__
+	- Nobelova cena
+	- realistické psychologické romány
+	- _Sága rodu Forsythů_
+		- o čtyřech generacích měšťanské rodiny
+		- vývoj britské společnosti
+- __++David Herbert Lawrence++__
+	- _Milenec lady Chaterleyové_
+		- otevřený v oblasti ženské sexuality
+		- zmrzačený muž, manželé spolu žijou, ale nešahají na sebe a nemluví na sebe
+- __++James Joyce++__
+	- experimentální próza
+	- hraní si
+	- _Odyseus_
+		- děj v průběhu jednoho dne
+		- psychologický román
+		- symbolicky návrat domů, hledání otce
+		- stavy a procesy podvědomí člověka
+		- proud vědomí
+		- 3 části, 18 kapitol, sledují epizody Homérova eposu
+		- Leopold Bloom, Štěpán Dadalus, Molly
+		- různé vědní obory
+		- citace v různých jazycích
+		- různé slohové postupy
+		- lidová rčení, vulgarismy, slovní hříčky
+		- kapitoly se liší místem, dějem, způsobem uvedení -- každá má barvu, část těla, umění
+- __++Virjinia Woolfová++__
+	- deprese
+	- její díla oslavují život, prožívání
+	- květiny, hodiny
+	- proud vědomí
+	- skoky mezi postavami
+	- psychologie jedinců s psychickými poruchami
+	- _Paní Dalowayová_
+		- děj v průběhu jednoho dne
+		- rekapitulace hrdinčina života
+		- chystá večírek pro svého manžela
+		- potká na trhu starýho kámoše
+		- proud vědomí
+	- _K majáku_
+
+###Francie
+- __++Marcel Proust++__
+	- profesionální spisovatel -- byl z bohaté rodiny
+	- _Hledání ztraceného času_
+		- vzpomínání
+		- podněty z vnějšku, které něco připomenou
+		- 7 dílů
+		- bez zápletky
+		- díly na sebe nemusí navazova, objevují se a mizí postavy
+		- polopřímá, nevlastní přímá řeč
+		- proud vědomí -- velmi dlouhé větvené věty
+- __++Antonie de Saint-Exupéry++__
+	- nadšený letec
+	- umřel jako dobrovolník ve 2. sv
+	- _Malý princ_ -- filosofická pohádka
+		- ich-forma
+		- letec s letadlem havaroval na poušti, opravuje letadlo (autobiografické prvky)
+		- setkává se s Malým princem, který je z malé planetky
+		- konfrontace dětského a dospělého světa
+		- dospělí dělají zbytečné věci, opomínají ty krásné
+		- kritika lidských vlastností
+		- cena přátelství
+		- rámcová/retrospektivní kompozice
+	- _Kurýr na jih_ -- román
+	- _Noční let_ -- román
+	- _Letec_ -- novela
+	- _Válečný pilot_ --novela
+	- _Citadela_ --filosofický esej/román
+
+###Rusko
+- občanská válka
+- bolševický převrat
+- bez průmyslové revoluce západní Evropy
+- pro lidi sklamání, protože po revoluci to nebylo lepší než před ní
+- oficiální literatura -- cenzurou povolena
+	- nesouvisející s politikou nebo souhlasící s režimem
+	- __++Maxim Gorkij++__
+		- bosácké příběhy -- o nemajetných lidech, kteří pozitivně překvapí v nějaké situaci
+		- _Matka_
+			- její syn zemřel, když se zapojil do organizace proti carovi
+			- ona po jeho smrti pokračuje v jeho snaze
+			- začíná jeho revolucionářské období
+		- později prokomunistická tvorba
+	- __++Michail Šolochov++__
+- vnitřní emigrace
+	- psali díla, která věděli, že nebudou moci vyjít
+	- zveřejněna buď až po smrti Stalina, nebo v zahraničí
+	- __++Boris Pasternak++__
+		- básník, prozaik
+		- překládal Sheakespeara
+		- _Život -- má sestra_ -- sbírka
+			- úvahová
+		- _Doktor Živago_ -- román
+			- inteligence po revoluci -- utlačováni
+			- komplikovaná láska
+			- sem tam poezie -- psaná hlavní postavou
+	- __++Michail Bulgakov++__
+		- drama, satirické povídky, sci-fi
+		- _Bílá garda_/divadelní zpracování _Dni Trubinových_
+			- autobiografické
+			- o občanské válce ze strany bílých
+			- kupodivu se smělo hrát, přestože román nevyšel
+		- _Moliére_ -- hra
+		- _Puškin. Poslední dny_ -- hra
+			- konflikt umělce s mcí
+		- _Psí srdce_ -- novela
+			- člověk s implementovaným srdcem psa
+			- zlověstná karikatura
+		- _Divadelní román_
+			- spisovatel x moc
+			- vyšel v 60. letech
+		- _Mistr a Markétka_ -- filosofický román
+			- vyšlel v 60. letech
+			- psal ho dlouho
+			- složitý mnohovrstvý děj
+			- Mistr -- spisovatel, píše knížku o Ježíšovi a Pilátu Ponském
+			- Woland -- ďábel, řádí v Moskvě se svojí družinou
+				- páchá zlo těm, kteří si to zaslouží -- komunistům
+			- Mistr už se chce na všecko vysrat, nechá se dát do blázince, chce spálit svou knížku
+			- jeho gf Markétka chce pomoct od Wolanda, za to mu dělá hostesku na plese
+			- nakonec se setkávají všichni, i s postavama z té knížky v jakémsi meziprostoru mimo krutou realitu
+- exilová literatura
+	- __++Ivan Bunin++__
+		- ve Francii
+		- kratší prozaické útvary, sled obrazů
+		- vystižení atmosféry, pocitů
+		- zanikání
+		- venkov
+		- snadno zrnitelní hrdinové se sklony k tragickým činům
+		- výjimečné věci v rámci všednosti
+		- _Temné aleje_ -- soubor povídek
+			- nešťastné lásky
+
+###Německo
+- chybí nějací dva lidi
+- __++Hermann Hesse++__
+	- básník, prozaik, esejista
+	- Nobelova cena
+	- orientální filosofie, buddhismus
+		- _Sidharta_ -- báseň v próze o Buddhovi
+	- _Stepní vlk_
+		- experimentální román
+		- hlavní hrdina schizofrenik
+- __++Lion Feuchtwanger++__
+	- aktualizovaná historická próza
+		- _Židovka z Toleda_
+			- 13\. století
+			- milostný příběh
+			- setkávání tří kultur
+		- _Bláznova moudrost_
+			- životopis Jeana Jacqua Roussoua
+		- _Lišky na vinici_
+		- _Ošklivá vévodkyně_
+			- Markéta Korutantská Pyskatá
+		- _Goya_
+			- životopisný román
+	- dával si velkou práci s faktografií
+	- dialogy, poutavá zápletka
+
+#####Pražská německá literatura
+- němci žijící v Praze, protože tam prostě normálně žili
+- __++Gustav Meyring++__
+	- _Golem_
+	- nebyl Žid
+- __++Franz Werfel++__
+	- _Verdi_ -- životopisný román
+	- _Smrt maloměšťáka_
+- __++Max Brod++__
+	- velký kamarád Kafky
+	- propagoval českou literaturu v té svojí německé
+	- zdramatizoval Haška do Němčiny
+	- měl po Kafkově smrti spálit jeho dílo, ale radši ho vydal
+- __++Franz Kafka++__
+	- ukázka _Před zákonem_
+	- jeho hrdinové jsou lidé, kteří jsou něčím manipulováni a nemají sílu se tomu vzepřít
+	- vzdalují se společnosti
+	- absurdní situace, často nevysvětleno, jak k tomu došlo
+	- symbolická rovina, málo obrazný jazyk
+	- jeho díla předzvěstí __existenci(on)alismu__
+		- odcizení a smíření s osudem, pasivita
+	- __symbolismus__
+	- složitý vztah k otci -- velká autorita
+	- psal německy, ale uměl dobře česky
+	- psal z niterné potřeby
+	- za života publikoval několik povídek
+	- zbytek psal do šuplíku, pak to dal Brodovi na spálení, ale ten to vydal
+	- vina a trest
+	- napětí, nejasná snová atmosféra
+	- romány
+		- _Nezvěstný (Amerika)_
+		- _Proces_
+			- hlavní hrdina něco spáchal, ale čtenář ani on neví co
+			- součástí je _Před zákonem_
+		- _Zámek_ 
+			- zeměměřič K. byl vyzván k nějaké práci na zámku, ale nemůže se tam dostat
+		- povídky
+			- _Proměna_
+				- hlavní postava se ráno probudila proměněná v brouka
+				- nepřemýšlí nad příčinou, přemýšlí nad tím, jak bude řešit své povinnosti
+			- _Ortel_
+				- přítelé odcizení, bez upřímnosti
+				- Jiří zbabělý/ohleduplný, nepodložené doměnky, moc přemýšlí
+				- Jiří/otec -- moc se nesetkávají, pocit výčitek, náhlé prozření
+				- otec má pocit, že ho syn ukládá málem do rakve, šok z náhlé péče
+				- obchod -- otec se domnívá, že mu ho syn chce sebrat
+				- závěr -- absurdní
+
+##Drama a divadlo
+- hraje se v zahraničí (u nás ++Ipsen++, ++Čechov++ -- lyrizované drama, míjivé dialogy, ++Oscar Wilde++ -- konverzační komedie)
+- výměna zkušeností mezi divadly
+- rozvoj techniky
+- cizokrajná inspirace (Asie)
+- klasické divadlo
+	- Moskevské divadlo MCHAT
+		- režiséři ++Stanislavskij++, ++Němitrovič -- Dančenko++
+			- jevištní realismus
+			- dokonalé zvládnutí všech prvků
+			- až 100 zkoušek
+			- herci musí děj prožívat
+			- psychologické propracování postav
+	- ++__G. B. Shaw__++
+		- kritický k myšlení Britů
+		- _Pigmalion_
+- Experimentální divadlo
+	- __++Luigi Ppirandello++__
+		- avantgerdní autor: neobvyklé náměty a prvky
+		- _Každý má svou pravdu_
+			- krédo všech jeho her
+			- různé úhly pohledu
+		- _Šest postav hledá autora_
+			- do divadla během zkoušky přijde rodina s tím, že má zajímavý životní příběh a herci jej mají ztvárnit
+			- matka má s otcem 1 dítě pak jde za jiným a s tím má další 3
+	- ++__G. Apollinaire__++
+		- Prsy Terésiovy -- o emancipaci
+	- ++__Bertold Brecht__++
+		- soustředí se na výraz
+		- temné stránky
+		- psychika
+		- epické drama
+			- divák si celou dobu uvědomuje, že je to divadelní hra
+			- používá zcizovzcí efekty
+				- písně
+				- vystoupení z role
+				- komunikace s diváky
+				- promítání na plátno
+		- čerpal z již existujících děl
+		- _Třígrošová opera_ -- parodie pokleslých žánrů
+		- _Matka kuráž a její děti_ -- inspirace z Dobrodružného Simplicia Simpliuse (Grimmelhausen)
+			- satirický pohled na válku
+			- matka vydělává válkou (markytánka)
+			- kvůli válce přijde o děti
+		- _Kavkazský křídový kruh_
+			- inspirace příběhem krále Šalamouna
+			- dvě matky se hádají o dítě
+			- mají se přetahovat, matka ho pustí
+	- Engene O'Neill [júdžin]
+		- otec herec, skrblík
+		- matka po třetím porodu upadla do divnejch stavů, prala moc léků, vlastně fetka, když si odvykla, tak umřela
+		- starší bratr alkoholik
+		- jeho dcera si vzaa Charliho Chapplina
+		- různorodá témata her
+		- rasismus, předsudky, konflikty, závislost...
+		- realita a iluze
+		- _Smutek sluší Elektře_
+			- aktualizované antické drama Elektra
+				- král Agamemnon zavražděn milencem své ženy
+				- jeho syn ho má pomstít, zabíjí svou matku
+				- pak trpí
+			- tady situováno do válký severu proti jihu
+		- _Cesta dlouhým dnem do noci_
+			- o té jeho rodince
+			- graduje se napětí ve vztazích mezi postavami
+			- přes svůj problém nedokážou ostatním pomoct
+	- __++Federico García Lorca++__
+		- zemřel v občanské válce
+		- _Dům Bernardy Albové_
+			- o tradicích a nebezpečí, které nese jejich dodržování
+			- Bernarda Albová a 5 dcer
+			- ovdověla -> 8 let nevychází z domu
+			- dcery se musí vdávat postupně podle věku
+			- nejmladší se do sebe zamiluje se snoubencem nejstarší, pak páchá sebevraždu
+		- _Krvavá svatba_
+			- archetypální názvy postav
+			- nevěsta žije v horách, ženich ve vesnici
+			- nevěstu navštěvuje její bývaléhý Leonarda, který je ženatý s její sestřenicí
+			- matka ženicha má trauma z toho, že jí zemřel manžel a starší syn kvůli sporu s Leonardovým rodem
+			- svatba
+			- Leonardo uteče s už vdanou nevěstou
+			- symbolická postava luny -- smrt
+			- hosté je začnou pronásledovat
+			- umřou oba muži

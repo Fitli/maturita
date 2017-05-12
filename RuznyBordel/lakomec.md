@@ -1,0 +1,65 @@
+#Moliére: Lakomec
+
+- __Druh:__ drama
+- __Žánr:__ komedie
+- __Téma:__ Lakota a její  vliv na rodinu, láska
+- __Časoprostor:__
+	- jednota místa, času a děje
+	- 17. století
+	- Paříž
+- __Kompozice:__
+	- hra je členěna do pěti dějství
+	- děj je chronologický
+- __Typy promluv:__ -- dialogy, monology
+- __Postavy:__
+	- ++Harpagon++
+		- hlavní postava
+		- lakotný, sobecký, nezajímá se o noc jiného, než o své peníze
+		- zamiluje se do Marie
+	- ++Kleant++
+		- syn Harpagona
+		- mladý, smypatický, drzý
+		- miluje Marii
+	- ++Eliška++
+		- dcera Harpagona
+		- zamilovaná do Valeria
+	- ++Marie++
+		- sousedka Harpagona
+		- krásná, skromná, plachá
+		- stará se o svoji nemocnou matku
+		- miluje Kleanta
+	- ++Valér++
+		- správce Harpagonova domu
+		- miluje Elišku, kvůli ní začal pracovat u jejího otce
+		- snaží se zalíbit Harpagonovi, úlisný, přísný na své podřízené
+	- ++Anselm++
+		- bohatý starý muž
+		- má si vzít Elišku
+		- na konci se ukáže, že jeho pravé jméno je Tomas d'Alburci a je otcem Marie a Valéra
+		- štědrý, dobrosrdečný
+	- ++Frosina++
+		- intrikářka, dohazovačka
+	- ++La Flèche++
+		- sluha Kleanta
+	- ++Jakub++
+		- Harpagonův kuchař a kočí
+	- ++šašek++
+		- chce se Harpagonovi pomstít
+	- ++mistr Šimon++
+		- zprostředkovatel půjčky od Harpagona pro Kleanta
+	- ++policejní komisař++ a jeho ++písař++
+	- ++paní Klaudie++, ++Brindavoine++, ++La Merluche++ -- Harpagonovi služební
+- __Kontext autorovy tvorby:__
+	- 
+	- psal komedie
+		- útočily na pokrytectví, lakomství, církev
+		- _Tartuffe_
+		- _Zdravý nemocný_
+	- tragikomedie
+		- _Don Juan_
+		- _Misantrop_
+- __Světový kontext:__
+	- klasicismus
+	- ++Piere Corneille++ (drama _Cid_)
+	- ++Jean Racine++ (drama _Faidra_)
+	- ++Jean de la Fontaine++ -- bajky

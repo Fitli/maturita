@@ -1,0 +1,81 @@
+#Česká moderna
+- 1895 -- časopis Rozhledy -- _Manifest české moderny_
+    - umění
+        - umělecké dílo by mělo odrážet individualitu autora
+        - umělci by měli mít právo být originální
+        - nutnost proudění cizích vlivů do české kultury
+        - zahraniční zdroje by měly být inspirací, ale je jen napodobovat -- vyčítáno lumírovcům
+    - společenská a politická situace
+        - kritika vůči některým stranám
+        - dělnictvo jako sociálně slabší skupina obyvatelstva -- potřebuje podporu
+        - všeobecné volební právo
+        - soužití s menšinami klidné, uspokojivé a tolerantní
+    - podepsali např.
+        - ++Vilém Mrštík++
+        - ++Josef Karel Šlejhar++
+        - ++__František Xaver Šalda__++
+        	- nejvýznamější český literární kritik
+        	- kritika je něco jako umělecký žánr
+        	- vyzdvihoval individuální přínos, specifičnost, svobodu vyjádření
+        	- jednota mezi formou a obsahem -- zapadá to do sebe
+        	- životnost -- dílo by mělo být uvěřitelné, i když je to fikce
+        	- profesor literatury na UK
+        	- sám psal, ale ne moc dobře
+        	- _Boje o zítřek_ -- soubor esejů o vztahu umění k životu
+        	- _Duše a dílo_ -- hodnocení romantických autorů (Rousseau, Mácha...)
+        	- _O nejmladší poezii české_ -- Walker, Seifert, Nezval...
+        - ++__Antonín Sova__++
+        	- jižní Čechy
+        	- jeho matka zamřela, když mu bylo 15
+        	- ředitel městské knihovny v Praze
+        	- impresionismus
+	        	- _Z mého kraje_
+        		- _Soucit i vzdor_
+        		- _květy intimních nálad_
+        		- přírodní lyrika
+        	- symbolismus
+        		- _Vybouřené smutky_ -- boj proti nespravedlnostem
+        		- _Údolí nového království_ -- symbol lepšího světa
+        		- _Ještě jednou se vrátíme_ -- láska
+        	- lyrizovaná próza
+        - ++__Otokar Březina__++
+        	- symbolismus
+        	- pouze 5 sbírek v průběhu 6 let
+        		- _Tajemné dálky_
+        		- _Svítání na západě_
+        		- _Větry od pólů_
+        		- _Stavitelé chrámů_
+        		- _Ruce_
+        	- sbírky se vyvíjejí -- temnota, smrt, dualismus fantazie a reality -> bůh -> jednota lidstva, oslava pokroku
+        	- eseje
+        		- _Hudba pramenů_
+        		- esej -- zamýšlí se nad odbornou problematikou uměleckými prostředky
+        - ++__Josef Svatopluk Machar__++
+            - působil v politice
+            - přívrženec TGM
+            - krátce inpektorem armády
+            - později krajní pravice
+            - psal do novin
+            - uznávaný kritik
+            - měl rád Nerudu, neměl rád Hálka
+            - poezie -- realistické vidění, málo figur a tropů, detail, ironie
+            - sbírky
+                - _Confiteor_
+                    - lyrická
+                    - napsal mladý
+                    - láska
+                - _Kde by měly kvést růže_
+                    - epika
+                    - příběhy žen
+                - _Magdaléna_
+                    - epika
+                    - hlavní hrdinka prostitutka
+                - _Tristium Vindobona_
+                    - žalozpěvy z vídně
+                    - politická lyrika
+                    - kritika, vlastnectví
+                    - velmi konkrétní poezie
+            - soubor _Svědomím věků_
+                - cyklus 9 sbírek
+                - vývoj lidstva
+            - čítanka -- V bezmyšlenkovém hovoru -- 336 -- epigram

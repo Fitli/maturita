@@ -1,0 +1,53 @@
+# Božena Němcová: Divá Bára
+- __Druh:__ epika
+- __Žánr:__ povídka
+- __Téma:__ předsudky, život na vsi, láska
+- __Motivy:__ házení věnečků, hřbitov, strašidlo, plavání -- svoboda, odvaha
+- __Časoprostor:__
+	- vesnice v Čechách
+	- autorčina současnost -- 19. století
+- __Kompozice:__
+	- chronologická
+	- kapitoly (3)
+- __Vypravěč:__ vnější, nezaujatý
+- __Vyprávěcí způsob:__ er-forma
+- __Typy promluv:__ všechny čtyři
+- __Postavy:__ 
+	- ++Bára++
+		- odvážná, silná, svébytná, poctivá, přátelská
+		- velká hlava, velké oči, tmavé husté vlasy
+		- vypadá i chová se jinak než ostatní -- vesničané se na ni dívají zkrz prsty
+	- ++Jakub++
+		- Bářin otec
+		- nemluvný, pracovitý, má Báru moc rád, jeho výchova na ni má velký vliv
+	- ++Bára starší++
+		- Bářina matka, zemřela když byla Bára malá, v šestinedělí omdlela při vaření -> sousedky si myslí, že polednice Bár v tu chvíli minimálně uřkla, možná dokonce vyměnila
+	- ++Elška++
+		- Bařina nejlepší kamarádka, krásná, milá, z bohaté rodiny faráře, nedá na předsudky vesničanů
+	- ++panna Pepinka++
+		- Elščina teta
+		- velmi přátrelská, upovídaná, organizátorka
+	- ++farář++
+		- Elščin strýc
+		- starý, moudrý, hodný
+		- většinou je nad věcí, přeje každému, aby byl v životě ťastný tak jak sám chce
+	- ++Jozífek++
+		- Bářin kamarád
+		- slabý, nechává se Bárou ochraňovat, holky ho ve hrách používají jako podržtašku, ale to mu neva
+	- ++kostelníkovi (Vlčkovi)++
+		- Jozífkovi rodiče
+		- nemají rádi Báru, nechtějí, aby se s ní jejich syn kamarádil
+	- ++správce++
+		- ženich, kterého chce Pepinka dohodit Elšce
+		- bohatý, starší, ošklivý, strašpytel
+		- Elška ho pochopitelně nechce, chce si vzít lékaře Hynka z Prahy
+	- ++Myslivec++
+		- zakoukal se do Báry, protože je jiná než ostatní děvčata
+		- podobný Jakubovy -- tichý, pocivý
+- __Jazyk:__
+	- archaismy, historismy, slova, která posunula svůj význam
+	- asi archaické koncovky -- podle dnešních pravidel nespisovné
+- __Kontext autorovy tvorby:__
+	- 
+- __Kontext české/světové literatury:__
+	- 
