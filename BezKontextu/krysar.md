@@ -1,0 +1,32 @@
+# Viktor Dyk: Krysař
+- __Druh:__ epika (místy s docela lyrickými prvky)
+- __Žánr:__ novela (pointa: lidi jsou jak krysy, pokud chtějí svoje město vyhubit od špíny a zla, musí sami od sebe)
+- __Téma:__ láska, rozhodování -- Agnes (a trochu i Krysař), nejistota vlastní identity -- Krysař, zkaženost lidí -- měšťané viz pointa
+- __Motivy:__ krysy -- zkaženost, píšťala -- moc, Krysař -- tajemství, řeka -- plynutí času, Sepp Jörgen -- klid, pomalost, propast -- smrt, země Sedmihradská -- cíl života, dítě -- budoucnost, nevinnost
+- __Časoprostor:__
+	- hanzovní město Hameln, dnešní severozápadní Německo
+	- středověk
+	- není moc jasné, jak dlouho to trvá, např. Krysařův výlet za město
+- __Kompozice:__
+	- chronologická
+	- paralelní -- Krysař, Sepp, Agnes
+- __Vypravěč:__ vnější
+- __Vyprávěcí způsob:__ er-forma
+- __Typy promluv:__ přímá řeč, nevlastní přímá, polopřímá
+- __Postavy:__ 
+	- ++Krysař++
+		- tajemný, přitažlivý, touží po spravedlnosti, svobodný, neví, jestli je ochoten se pro něco své svobody vzdát
+	- ++Agnes++
+		- krásná, nerozhodná, neví, co se sebou
+	- ++Kristián++
+		- symbol jistoty, usedlosti, je prostě vedle Krysaře dost nudný
+	- ++Sep Jörgen++
+		- pomalý, nezaslouží si být potrestán, není součástí společnosti
+	- ++konšelé a ostatní měšťané++
+		- myslí jen na svoje dobro, umí být zlí
+- __Jazyk:__
+	- spisovný, obrazný
+- __Kontext autorovy tvorby:__
+	- 
+- __Kontext české/světové literatury:__
+	-  
