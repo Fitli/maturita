@@ -5,12 +5,12 @@
 - __Téma:__ Lakota a její  vliv na rodinu, láska
 - __Časoprostor:__
 	- jednota místa, času a děje
-	- 17. století
+	- 17\. století
 	- Paříž
 - __Kompozice:__
 	- hra je členěna do pěti dějství
 	- děj je chronologický
-- __Typy promluv:__ -- dialogy, monology
+- __Typy promluv:__ dialogy, monology
 - __Postavy:__
 	- <u>Harpagon</u>
 		- hlavní postava
@@ -41,16 +41,16 @@
 		- intrikářka, dohazovačka
 	- <u>La Flèche</u>
 		- sluha Kleanta
+		- jméno znamená Šíp
+		- chce se Harpagonovi pomstít
 	- <u>Jakub</u>
 		- Harpagonův kuchař a kočí
-	- <u>šašek</u>
-		- chce se Harpagonovi pomstít
+		- nesnáší Kleanta
 	- <u>mistr Šimon</u>
 		- zprostředkovatel půjčky od Harpagona pro Kleanta
 	- <u>policejní komisař<u> a jeho </u>písař</u>
 	- <u>paní Klaudie<u>, <u>Brindavoine</u>, </u>La Merluche</u> -- Harpagonovi služební
 - __Kontext autorovy tvorby:__
-	- 
 	- psal komedie
 		- útočily na pokrytectví, lakomství, církev
 		- _Tartuffe_
