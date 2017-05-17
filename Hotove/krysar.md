@@ -1,0 +1,122 @@
+# Viktor Dyk: Krysař
+- __Druh:__ epika (místy s docela lyrickými prvky)
+- __Žánr:__ novela (pointa: lidi jsou jak krysy, pokud chtějí svoje město vyhubit od špíny a zla, musí sami od sebe)
+- __Téma:__ láska, rozhodování -- Agnes (a trochu i Krysař), nejistota vlastní identity -- Krysař, zkaženost lidí -- měšťané viz pointa
+- __Motivy:__ krysy -- zkaženost, píšťala -- moc, Krysař -- tajemství, řeka -- plynutí času, Sepp Jörgen -- klid, pomalost, propast -- smrt, země Sedmihradská -- cíl života, dítě -- budoucnost, nevinnost
+- __Časoprostor:__
+	- hanzovní město Hameln, dnešní severozápadní Německo
+	- středověk
+	- není moc jasné, jak dlouho to trvá, např. Krysařův výlet za město
+- __Kompozice:__
+	- chronologická
+	- paralelní -- Krysař, Sepp, Agnes
+- __Vypravěč:__ vnější
+- __Vyprávěcí způsob:__ er-forma
+- __Typy promluv:__ přímá řeč, nevlastní přímá, polopřímá
+- __Postavy:__ 
+	- ++Krysař++
+		- tajemný, přitažlivý, touží po spravedlnosti, svobodný, neví, jestli je ochoten se pro něco své svobody vzdát
+	- ++Agnes++
+		- krásná, nerozhodná, neví, co se sebou
+	- ++Kristián++
+		- symbol jistoty, usedlosti, je prostě vedle Krysaře dost nudný
+	- ++Sep Jörgen++
+		- pomalý, nezaslouží si být potrestán, není součástí společnosti
+	- ++konšelé a ostatní měšťané++
+		- myslí jen na svoje dobro, umí být zlí
+- __Jazyk:__
+	- spisovný, obrazný
+- __Kontext autorovy tvorby:__
+	- konec 19. století
+	- anarchista
+	- básník, prozaik, dramatik
+	- poezie -- často ironie
+		- _Satiry a sarkasmy_ -- satiry na český společenský život
+		- aforismy -- krátká vtipná průpovídka, výrok, často ironicky podbarvený
+		- _Milá sedmi loupežníků_ -- balada
+		- _Devátá vlna_ -- sbírka, vyznívá jako předzvěst jeho smrti -- umřel u moře
+		- válečná tetralogie
+	- próza -- romantika
+		- Krysař
+	- drama
+		- Zmoudření Dona Quijota
+- __Kontext české literatury:__
+	- generace anarchistických budičů
+	- konec 19. století
+    - mladší generace
+    - nespokojení se společenskou situací
+    - společné s dekadencí, ale místo skepse, kontrovezních témat, úniků do jiných světů vyjadřují touhu po řešení - odboji
+    - často i anarchistické činy
+    - sblížení s dělnickým hnutím
+    - hnutí s Omladinou
+        - <u>S. K. Neumann</u>
+    - antimilitarsimus
+        - proti řešení konfliktů na státní úrovni pomocí zbraní
+    - civilismus
+        - propagace civilizace a jejího rozvoje
+        - obdivuje vědu, techniku, usnadňování života
+    - vitalismus
+        - oslava života, člověka, akce, radosti, přírody
+    - literatura
+        - sepjetí se životem, čtivá pro všechny
+        - lidové prostředky
+        - prostá pojmenování
+        - pravidelný verš
+    - 
+    - <u>Fráňa Šrámek</u>
+        - _Stříbrný vítr_ 
+            - lyrizovaná próza -- impresionistický román
+            - hlavní postava Jan Ratkin, divně namíchaný geny
+            - symbol snahy o dosažení touhy
+        - _Tělo_
+            - vitalistický román
+        - próza
+            - _Splav_ -- impresionismus
+            - _Modrý a rudý_ -- protiválečná, symbolismus
+        - dramata
+            - _Měsíc nad řekou_
+                - dospělost bývalých spolužáků
+            - _Léto_
+    - <u>Karel Toman</u>
+        - bohémský život
+        - redaktor Národních listů
+        - hodně cestoval
+        - sbírka _Měsíce_
+    - <u>Stanislav Kostka Neumann</u>
+        - za začátky dekadence, symbolismus, satanismus, začíná se kamarádit s anarchisty
+            - _Satanova sláva mezi námi_
+                - symbol vzdoru, oslava živočišna
+            - _Kniha mládí a vzdoru_
+                - sbírka
+        - později naturismus -- oslava přírody
+            - _Kniha lesů, vod a strání_
+                - Bílovice
+                - některé básně připomínají modlitby
+        - civilismus -- oslava pokroku
+            - _Nové zpěvy_
+        - _Proletářská poezie_
+            - _Rudé zpěvy_
+        - za okupace psal do šuplíku
+            - _Zamořená léta_
+            - _Bezedný rok_
+    - <u>Petr Bezruč</u>
+        - pseudonym
+        - filolog
+        - zkoumal Rukopisy
+        - Jaroška
+        - _Slezské písně_
+            - anonymně v časopise Čas
+            - knižně pak vydaj <u>Jan Herben</u> -- redaktor toho časopisu jako _Slezské číslo_
+            - později vycházely s úpravami k horšímu
+            - nazývá se bardem utlačovaného slezského národa
+            - lidové mýty, křesťanské prvky
+            - místopis
+            - okruhy:
+                - národnoustní útisk Slezanů
+                - intimní lyrika
+                - místopis
+                - sociální balady
+                - vzdálenost Prahy
+            - autorství
+                - prý není výhradním autorem
+                - teorie, že hlavním autorem Ondřej Petr
