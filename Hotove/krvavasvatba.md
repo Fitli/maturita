@@ -1,0 +1,71 @@
+# Federico García Lorca: Krvavá svatba
+- __Druh:__ lyrizované drama
+- __Žánr:__ tragédie
+- __Téma:__ nemožnost překonání vzpomínek na minulost
+- __Motivy:__ barvy, luna, zbraně, věnec, kytice, žebračka -- smrt
+- __Časoprostor:__
+  - vesnice ve španělsku, je tam velký vedro, takže asi někde na jihu
+  - kolem roku 1900 -- dle scénické poznámky o nevěstiných šatech -- to byl autor mimino
+- __Kompozice:__
+  - tři akty, členěné do obrazů
+  - chronologická, retrospektivy -- smrt ženichova otce a bratra, vztah nevěsty a Leonarda
+  - paralely -- třeba na konci, když se střídají uprchlíci, pronásledovatelé a nadpřeirozené bytosti
+- __Vypravěč:__ není, ale je tam hodně moc scénických poznámek
+- __Vyprávěcí způsob:__ --
+- __Typy promluv:__ dialogy
+- __Postavy:__ 
+  - nemají jména, jsou to archetypy
+  - <u>Ženich</u>
+    - obyčejný, silný, hezký, šťastný se svým životam
+  - <u>Nevěsta</u>
+    - neví co chce
+    - schopná podlehnout svým pudům před morálkou a normálností
+  - <u>Matka</u> (ženicha)
+    - zatrpklá, nesnášenlivá vůči Leonardovu rodu, který jí zamil muže a syna
+  - <u>Otec</u> (nevěsty)
+    - milý, poctivý, pracovitý
+  - <u>Leonardo</u>
+    - není schopný se přenést přes minulost a přát nevěstě štěstí se ženichem
+    - zbrklý, trochu agresivní
+  - <u>Žena a Tchyně</u> (Leonardovy)
+    - mírné, starostlivé
+  - <u>Dřevorubci</u>
+    - nechtějí násilí, podporuí nevěstu s Leonardem
+  - <u>Žebračka</u>
+    - =smrt
+  - <u>Luna</u>
+    - krvažíznivý osvětlovač
+- __Jazyk:__
+  - spisovný, vulgarismy
+- __Kontext autorovy tvorby:__
+  - 1898 -- 1936 -- to je zhruba jako třeba Čapek(!)
+  - zemřel v občanské válce
+  - typické je pro něj probojení živých dialogů s lyrickými pasážemi, využívání symbolů a motivů, veršované prvky
+  - _Dům Bernardy Albové_
+    - o tradicích a nebezpečí, které nese jejich dodržování
+    - Bernarda Albová a 5 dcer
+    - ovdověla -> 8 let nevychází z domu
+    - dcery se musí vdávat postupně podle věku
+    - nejmladší se do sebe zamiluje se snoubencem nejstarší, pak páchá sebevraždu
+- __Kontext světové literatury:__
+  - světové meziválečné drama
+  - klasické divadlo
+	- Moskevské divadlo MCHAT
+	- <u>G. B. Shaw</u>
+		- kritický k myšlení Britů
+		- _Pigmalion_
+- Experimentální divadlo -- sem patří Lorca
+	- <u>Luigi Ppirandello</u>
+		- avantgerdní autor: neobvyklé náměty a prvky
+		- _Každý má svou pravdu_
+		- _Šest postav hledá autora_
+	- <u>G. Apollinaire</u>
+		- _Prsy Terésiovy_ -- o emancipaci
+	- <u>Bertold Brecht</u>
+		- _Třígrošová opera_ -- parodie pokleslých žánrů
+		- _Matka kuráž a její děti_ -- inspirace z Dobrodružného Simplicia Simpliuse (Grimmelhausen)
+		- _Kavkazský křídový kruh_
+	- <u>Engene O'Neill [júdžin]</u>
+		- otec herec, skrblík
+		- _Smutek sluší Elektře_
+		- _Cesta dlouhým dnem do noci_
