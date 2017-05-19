@@ -1,0 +1,63 @@
+# Miloš Urban: Hastrman
+- __Druh:__ epika
+- __Žánr:__ román (zelený(v původním vydání zeleným písmem na zeleném papíru), mysteriózní, ekologický, pseudohistorický, filosofický, zkrátka postmodernistický)
+- __Téma:__ Vztah člověka k přírodě. Kniha první tradice, kniha druhá ekologie.
+- __Motivy:__ srp; voda -- Hastrman; země -- Katynka -- kopec,viklan; Odradek -- varování; 
+- __Časoprostor:__
+  - Stará ves pod Vlhoští -- Liberecký kraj
+  - kniha první: 19. století
+  - kniha druhá: počátek 21. století = autorova a moje současnost
+- __Kompozice:__
+  - rozděleno na dvě knihy, ty členěny na kapitoly
+  - chronologická
+- __Vypravěč:__ Hastrman
+- __Vyprávěcí způsob:__ ich-forma
+- __Typy promluv:__ asi všechny, tlustý je to dost
+- __Postavy:__ 
+  - <u>Hastrman (Johanes Salmon, baron de Caus)</u>
+    - v první knize hledá hranici mezi opatrováním lidí a bytím strašidlem, láskou a vražděním
+    - hranici mezi přírodou a lidmi, která bude pro všechny přijatelná
+    - zamiluje se do Katynky
+    - někde psali, že je aluzí na Erbenova Vodníka
+    - ve druhé knize je nucen svoje snahy o splynutí lidsta a přírody hnát do odporných extrémů
+    - nakonec zjišťuje, že už se do dnešního světa prostě nehodí a umírá
+    - ale vidí, že se vždycky najdou nějací zasraní sluníčkáři, co budou hastrmanovat za něj
+  - <u>Katynka</u>
+    - symbol země, pohanské víry
+    - prý pro změnu aluze na Divou Báru
+    - pokrok, odvaha
+    - lidové tradice
+    - sám její otec na začátku říká, že by jí bylo líp za dvě stě let, pak se jí to náhodou i splní
+    - nebojí se hnát svět dopředu tak, aby jí to vyhovovalo
+  - <u>Fidelius</u>
+    - jméno = věrný
+    - symbol víry
+    - snaží se marně mezi lidmi zlikvidovat pohanské zvyky
+    - ale pak si v klidu šuká v dílně dřevěnou Kaynku
+  - <u>učitel Voves</u>
+    - symbolizue vdělání a rozum
+    - neumí si neracionální věci, jako třeba pohanské slavnosti, doopravdy užívat
+  - <u>Tomáš Mor</u>
+    - aluze na Thomase Moora, co napsal Utopii -- prostě je to utopista a zatvrzelý sluníčkář
+- __Jazyk:__
+  - spisovný, čtivý, místy rozsáhlé popisné pasáže
+- __Kontext autorovy tvorby:__
+  - *1967
+  - jeden z neuznávanějších autorů mladé české literatury
+  - šéfredaktor nakladatelství Agro
+  - překládá z angličtiny
+  - momentálně 16 románů, nějaké povídky
+  - např. _Stín katedrály_, _Santiniho jazyk_
+- __Kontext české/světové literatury:__
+	- <u>Michal Viewegh</u>
+        - _Báječná léta pod psa_
+        - _Účastníci zájezdu_
+        - _Román pro ženy_
+    - <u>Jiří Kratochvíl</u>
+        - nový román
+        - postmodernismus
+        - magický realismus
+        - _Avion_
+    - <u>Kateřina Tučková</u>
+    	- _Vyhnání Gerty Schinch_
+    	- _Žítkovské bohyně_
