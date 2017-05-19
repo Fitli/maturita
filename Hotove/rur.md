@@ -88,22 +88,12 @@
  			- *Život hmyzu* -- s bratrem
  			- *Stín kapradiny* -- lyrizovaná próza
 			- popisování přírody -- na pozadí hrozná vražda
-	- meziválečné drama
-		- divadla se snaží působit civilnějším dojmem
-		- umělecké směry: 
-			- poetismus: uvolněná atmosféra, dějová linie, cirkusové prvky, scénické básně, pásma komediálních výjevů
-				- Osvobozené divadlo
-			- surrealismus
-		- __Osvobozené divadlo__
-			- __<u>Jiří Voskovec</u>__
-			- __<u>Jan Werich</u>__
-			- hry začínají vytvářet přímo v divadle
-			- __<u>Jaroslav Ježek</u>__ -- hudba
-			- _Vest pocket revue_
-			- _Caesar_ -- naráží na Mussoliniho
-			- _Golem_, _Osel a stín_, _Těžká  Barbora_
-			- forbíny -- před oponou mezi čásmi hry, hodně aktuální, dost improvizované
-		- __D34__ -- režisérské divadlo, hrálo i Čapka
+	- - meziválčné divadlo
+		- autorské <u>Osvobozené divadlo</u>
+			- <u>Jiří Voskovec</u>, <u>Jan Werich</u><u>Jaroslav Ježek</u>
+			- _Vest pocket revue_, _Caesar_ -- naráží na Mussoliniho, _Golem_, _Osel a stín_, _Těžká  Barbora_
+		- režisérské <u>D34</u>
+			- hrálo i Čapkovy hry
 	- další prozaici tohoto období:
 		- __<u>Jaroslav Hašek</u>__  (_Osudy dobrého vojáka Švejka za světové války_)
 		- __<u>Ivan Olbracht</u>__ (_Nikola Šuhaj loupežník_, _Čtení z Bible kralické_)

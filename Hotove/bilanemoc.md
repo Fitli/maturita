@@ -1,0 +1,92 @@
+# Karel Čapek: Bílá nemoc
+- __Druh:__ drama
+- __Žánr:__ tragédie
+- __Téma:__ Válka, pacifismus, strach(z nemoci), nacionalismus, propaganda, demagogie, paradox: nechá umřít lidi aby jiné zachránil, epidemie, marná snaha jednotlivce
+- __Motivy:__ osobní ideály, soucit s chudými, oportunismus, generační rozdíly, ironie, fanatismus, xenofobie, prospěchářství
+- __Časoprostor:__
+  - analogie na Německo před 2.sv válkou
+- __Kompozice:__
+  - Chronologická
+  - 5 antických částí (Expozice, kolize, krize, peripetie, katastrofa)
+  - paralelní: 2 linie (rodina, doktor+vůdce)
+- __Vypravěč:__ --
+- __Vyprávěcí způsob:__ --
+- __Typy promluv:__ dialogy
+- __Postavy:__ 
+  - <u>Dr. Galén</u>
+    - naivní idealista
+    - nezastává lékařské zásady -- Hippokratova přísaha
+    - jde si za svým ušlechtilým cílem
+  - <u>Dvorní rada (Dr. Sigélius)</u>
+    - povahově zkažený
+    - léčí pro prestiž
+  - <u>Maršál</u>
+    - idealista, charismatický
+    - má velké vize
+    - je schopný a dobrý vůdce
+    - mění se ve chvíli, kdy sám onemocní
+  - <u>Baron Krüg</u>
+    - oddaný maršálovi
+    - pracovitý, schopný
+    - na konec se bojí smrti, tak se zastřelí zastřelí se
+  - <u>Otec</u>
+    - zmanipulovaný nacionalista
+  - <u>Postava</u>
+    - ambiciózní, prospěchářský
+- __Jazyk:__
+  - převážně spisovný, vyskytují se výrazy z obecné češtiny
+- __Kontext autorovy tvorby:__
+    - 1890 -- 1938
+    - humanitní a demokratický proud
+    - hodně všestranný
+    - dramaturg divadla na Vinohradech
+    - dramatik
+    - pacifismus
+    - pragmatismus
+        - zabývá se cílem jednání, jsou různé možné prostředky
+        - pravda je relativní
+        - různé úhly pohledu
+    - povídky
+        - _Trapné povídky_
+        - _Boží muka_
+        - _Povídky z jedné a druhé kapsy_
+            - dobré charakteristiky
+            - civilnost
+    - hry
+        - _R.U.R_
+        - _Věc Makrupolos_
+        - _Bílá nemoc_
+        - _Matka_
+    - romány
+        - *Krakatit*
+        - *Továrna na absolutno*
+        - *Hordubal, Povětroň, Obyčejný život* -- pragmatická trilogie
+        - _Hovory s TGM_
+        - _Válka s mloky_
+    - cestopisy
+        - _Italské listy_
+        - _Holandské listy_
+        - _Anglické listy_
+        - _Výlety do Španěl_
+    - pohádky
+        - _Devatero pohádek_
+        - _Dášenka, čili život štěněte_
+- __Kontext české/světové literatury:__
+	- demokratický proud
+		- <u>Eduard Bass</u>
+            - *Klapzubova jedenáctka* -- fotbalový román
+            - *Cirkus Humberto* -- životní osudy cirkusáka -- hl. postavy od dětství do stáří (Vašek)
+		- <u>Josef Čapek</u>
+            - *Život hmyzu* -- s bratrem
+            - *Stín kapradiny* -- lyrizovaná próza
+            - _Pejsek a kočička_
+	- meziválčné divadlo
+		- autorské <u>Osvobozené divadlo</u>
+			- <u>Jiří Voskovec</u>, <u>Jan Werich</u><u>Jaroslav Ježek</u>
+			- _Vest pocket revue_, _Caesar_ -- naráží na Mussoliniho, _Golem_, _Osel a stín_, _Těžká  Barbora_
+		- režisérské <u>D34</u>
+			- hrálo i Čapkovy hry
+	- další prozaici tohoto období:
+		- __<u>Jaroslav Hašek</u>__  (_Osudy dobrého vojáka Švejka za světové války_)
+		- __<u>Ivan Olbracht</u>__ (_Nikola Šuhaj loupežník_, _Čtení z Bible kralické_)
+		- __<u>Vladislav Vančura</u>__ (_Rozmarné léto_, _Markéta Lazarová_)
