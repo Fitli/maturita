@@ -1,0 +1,56 @@
+# William Shakespeare: Hamlet
+- __Druh:__ drama
+- __Žánr:__ tragédie
+- __Téma:__ Otázka práva na pomstu za otcovu smrt. Hledání smyslu života. Láska.
+- __Motivy:__ 
+- __Časoprostor:__
+  - několik dnů ve středověku na hradě Elsinor v Dánsku
+- __Kompozice:__
+  - hra je členěna do pěti dějství – expozice, kolize, krize, peripetie, katastrofa
+  - děj je chronologický
+- __Vypravěč:__ není (drama)
+- __Vyprávěcí způsob:__ není (drama)
+- __Typy promluv:__ dialogy i dlouhé monology
+- __Postavy:__ 
+  - <u>Hamlet</u>
+    - dánský princ
+    - chytrý, rozpolcený, pomstychtivý, složitá osobnost, předstírá šílenství, spravedlivý, nerozhodný
+  - <u>Klaudius (král)</u>
+    - Hamletův strýc; vrah Hamletova otce
+    - zrádný, zlý, ctižádostivý
+  - <u>Gertruda (královna)</u>
+    - Hamletova matka
+    - po smrti svého manžela se rychle provdala za jeho bratra
+  - <u>Horatio</u>
+    - Hamletův přítel
+    - čestný, spravedlivý, věrný
+  - <u>Polonius</u>
+    - nejvyšší komoří
+    - až příliš se snaží vlichotit králi
+  - <u>Ofélie</u>
+    - dcera Polonia
+    - zamilovaná do Hamleta
+    - zbláznila se, zabila se
+  - <u>Rosenkrantz, Guildenstern</u>
+    - Hamletovi spolužáci pozvaní do Elsinoru králem
+    - zrádní, přetvářejí se
+  - <u>Laert</u>
+    - Poloniův syn
+    - zabit v souboji s Hamletem
+  - <u>duch mrtvého krále</u>
+- __Jazyk:__
+	- spisovný jazyk
+	- archaismy
+- __Kontext autorovy tvorby:__
+  - jedna z třiceti sedmi Shakespearových her
+  - kromě tragédií psal komedie, historické hry, hry s pohádkovými motivy, sonety
+  - tragédie např.: _Romeo a Julie_, _Král Lear_
+  - komedie např.: _Zkrocení zlá ženy_, _Sen noci svatojánské_
+  - historické hry: _Richard II., III., Jindřich IV., V., VI., VIII._
+  - pohádkové motivy: _Zimní pohádka_, _Bouře_
+- __Kontext české/světové literatury:__
+	- Anglie
+	- 16\. – 17. století
+	- renesance
+	- humanismus
+	- doplnit...
